@@ -152,6 +152,10 @@
                 "type": "technology"
               },
               {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
                 "name": "Grafana",
                 "type": "technology"
               },
