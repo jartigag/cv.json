@@ -83,6 +83,10 @@
                 "type": "technology"
               },
               {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
                 "name": "Linux",
                 "type": "technology"
               },
