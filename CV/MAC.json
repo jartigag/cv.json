@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,7 +17,8 @@
       "location": {
         "country": "España",
         "region": "Castilla y León",
-        "municipality": "Burgos"
+        "municipality": "Burgos",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -41,9 +42,12 @@
         "URL": "https://jartigag.blog/",
         "authors": [
           {
+            "name": "",
+            "surnames": "",
             "title": "Author"
           }
-        ]
+        ],
+        "summary": ""
       },
       {
         "title": "Github",
@@ -51,9 +55,12 @@
         "URL": "https://github.com/jartigag",
         "authors": [
           {
+            "name": "",
+            "surnames": "",
             "title": "Author"
           }
-        ]
+        ],
+        "summary": ""
       }
     ]
   },
@@ -123,7 +130,12 @@
           {
             "name": "CTF Player",
             "startDate": "2021-09-01",
-            "finishDate": "2022-05-01"
+            "finishDate": "2022-05-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ]
           }
         ]
       },
@@ -228,6 +240,7 @@
       {
         "details": {
           "name": "jartigag.blog",
+          "description": "",
           "URL": "https://jartigag.blog/"
         },
         "type": "sideProject",
@@ -300,16 +313,30 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "English",
+        "level": "Full professional proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "Python",
+          "name": "Elasticsearch",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Grafana",
           "type": "technology"
         }
       },
@@ -321,19 +348,7 @@
       },
       {
         "skill": {
-          "name": "Unix",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Elasticsearch",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Grafana",
+          "name": "Python",
           "type": "technology"
         }
       }
@@ -388,6 +403,7 @@
         "finishDate": "2024-11-01",
         "institution": {
           "name": "WatchGuard Technologies",
+          "description": "",
           "URL": "https://www.watchguard.com/wgrd-training/certification",
           "image": {
             "alt": "1562602357356.jpeg",
@@ -515,6 +531,7 @@
         "finishDate": "2011-05-01",
         "institution": {
           "name": "Cambridge Assessment English",
+          "description": "",
           "image": {
             "alt": "1650876512808.jpeg",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/16/bedfb20e-fe56-4bb3-a4e2-fd84ce56f0f2_1650876512808.jpeg"
@@ -538,6 +555,7 @@
         "Engineering Management",
         "Security Engineer"
       ]
-    }
+    },
+    "status": "openToOffers"
   }
 }
