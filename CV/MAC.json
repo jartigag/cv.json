@@ -280,7 +280,7 @@
         "details": {
           "name": "Sistema de detección de dominios typosquatting",
           "description": "Sistema de monitorización de dominios typosquatting, basado en recoger información con peticiones DNS, Whois y HTTP y almacenarla en un servidor de búsqueda Elasticsearch.",
-          "URL": "https://javier.artiga.es/cv/paper-tfg-javier_artiga_garijo.pdf",
+          "URL": "https://javier.artiga.es/paper-tfg-javier_artiga_garijo.pdf",
           "image": {
             "alt": "Screenshot_20220516_114307.png",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/16/44071255-899d-467d-8187-75ec5dd7faa5_screenshot_20220516_.png"
