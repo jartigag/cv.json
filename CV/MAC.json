@@ -23,14 +23,6 @@
     },
     "relevantLinks": [
       {
-        "type": "github",
-        "URL": "https://github.com/jartigag"
-      },
-      {
-        "type": "other",
-        "URL": "https://jartigag.blog"
-      },
-      {
         "type": "linkedin",
         "URL": "https://www.linkedin.com/in/javier-artiga-garijo/"
       }
@@ -52,7 +44,24 @@
     "jobs": [
       {
         "organization": {
-          "name": "Centro de Servicios Avanzados (CSA)"
+          "name": "Scavenger Security"
+        },
+        "roles": [
+          {
+            "name": "CTF Player",
+            "startDate": "2021-09-01",
+            "finishDate": "2022-05-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Centro de Servicios Avanzados (CSA)",
+          "image": {
+            "alt": "0b50f82e-d7d4-434c-8518-f16b5d548b8c_csa.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/05/1961de00-4c7d-4ded-af11-3c03409e52b8_0b50f82e-d7d4-434c-8.png"
+          },
+          "URL": "https://www.linkedin.com/company/centro-de-servicios-avanzado"
         },
         "roles": [
           {
@@ -62,19 +71,37 @@
               {
                 "description": "- Análisis proactivo de amenazas de ciberseguridad.\n- Adaptación de múltiples servicios de ciberseguridad a diversos tipos de clientes públicos (ministerios, comunidades autónomas, diputaciones, ayuntamientos) y del sector privado.\n- Coordinación con otros equipos y CSIRTs.\n- Respuesta temprana ante incidentes.\n- Auditoría de redes y seguridad.\n- Consultoría para el diseño de infraestructuras seguras.\n\n\nEDRs (CrowdStrike, Cytomic) | Threat Intelligence (MISP) | SIEM & Log Management (IBM QRadar, Graylog, Splunk)"
               }
+            ],
+            "competences": [
+              {
+                "name": "Centos",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "Linux",
+                "type": "technology"
+              },
+              {
+                "name": "Pytest",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "RedHat",
+                "type": "technology"
+              },
+              {
+                "name": "Windows",
+                "type": "technology"
+              }
             ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Scavenger Security"
-        },
-        "roles": [
-          {
-            "name": "CTF Player",
-            "startDate": "2021-09-01",
-            "finishDate": "2022-05-01"
           }
         ]
       },
@@ -187,20 +214,10 @@
     ]
   },
   "knowledge": {
-    "languages": [
-      {
-        "name": "Español",
-        "level": "Full professional proficiency"
-      },
-      {
-        "name": "Inglés",
-        "level": "Full professional proficiency"
-      }
-    ],
     "hardSkills": [
       {
         "skill": {
-          "name": "Grafana",
+          "name": "Linux",
           "type": "technology"
         }
       },
@@ -212,19 +229,19 @@
       },
       {
         "skill": {
-          "name": "Linux",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Git",
+          "name": "Grafana",
           "type": "technology"
         }
       },
       {
         "skill": {
           "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
           "type": "technology"
         }
       }
@@ -419,14 +436,6 @@
         {
           "type": "linkedin",
           "URL": "https://www.linkedin.com/in/javier-artiga-garijo/"
-        },
-        {
-          "type": "other",
-          "URL": "https://github.com/jartigag"
-        },
-        {
-          "type": "other",
-          "URL": "https://jartigag.blog"
         }
       ]
     },
@@ -442,7 +451,7 @@
   "asgardPreferences": {
     "mainStackTechs": [
       {
-        "name": "Grafana",
+        "name": "Linux",
         "type": "technology"
       },
       {
@@ -450,15 +459,15 @@
         "type": "technology"
       },
       {
-        "name": "Linux",
-        "type": "technology"
-      },
-      {
-        "name": "Git",
+        "name": "Grafana",
         "type": "technology"
       },
       {
         "name": "Python",
+        "type": "technology"
+      },
+      {
+        "name": "Git",
         "type": "technology"
       }
     ]
