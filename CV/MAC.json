@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -9,7 +9,7 @@
       "name": "Javier",
       "surnames": "Artiga Garijo",
       "title": "Cybersecurity Analyst (Threat Hunting)",
-      "description": "Soy un ingeniero de telecomunicaciones (máster en big data) en su quinto año de vida laboral, muy interesado en la ciberseguridad, el análisis de datos, el desarrollo de software con buenas prácticas, en colaborar con gente motivada por trabajar en un objetivo común y en general en seguir progresando en mi carrera profesional en el mundo tecnológico, que considero que ofrece infinidad de oportunidades de crecer en muchos sentidos.\n\nDesde septiembre de 2021, trabajo en una empresa de servicios de ciberseguridad, principalmente con clientes del sector público español. Mi tarea fundamental es el threat hunting, para lo cual utilizo soluciones estándar (como EDRs) integradas con mis propias herramientas. También he formado parte de varios CSIRTs y he apoyado en respuesta a incidentes, consultoría de infraestructuras seguras, auditoría de redes y desarrollo de productos internos.\n\nAntes trabajé en una spin-off de monitorización de redes desde enero de 2019 hasta septiembre de 2021, dentro de un proyecto internacional cuyo enfoque principal fue construir un SIEM por completo, con el stack ELK y herramientas que desarrollamos en equipo. Lo hice junto a un grupo fantástico del que aprendí un montón y al que pude aportar en igual medida.\n\nCreo que es más fácil conocerme leyendo un poco los artículos que escribo en: https://jartigag.blog",
+      "description": "Soy un ingeniero de telecomunicaciones (máster en big data) en su quinto año de vida laboral, muy interesado en la ciberseguridad, el análisis de datos, el desarrollo de software con buenas prácticas, en colaborar con gente motivada por trabajar en un objetivo común y en general en seguir progresando en mi carrera profesional en el mundo tecnológico, que considero que ofrece infinidad de oportunidades de crecer en muchos sentidos.\n\nDesde septiembre de 2021, trabajo en una empresa de servicios de ciberseguridad, principalmente con clientes del sector público español. Mi tarea fundamental es el threat hunting, para lo cual utilizo soluciones estándar (como EDRs) integradas con mis propias herramientas. También he formado parte de varios CSIRTs y he apoyado en respuesta a incidentes, consultoría de infraestructuras seguras, auditoría de redes y desarrollo de productos internos.\n\nAntes trabajé en una spin-off de monitorización de redes desde enero de 2019 hasta septiembre de 2021, dentro de un proyecto internacional cuyo enfoque principal fue construir un SIEM por completo, con el stack ELK y herramientas que desarrollamos en equipo. Lo hice junto a un grupo fantástico del que aprendí un montón y al que pude aportar en igual medida.\n\nCreo que es más fácil conocerme leyendo un poco los artículos que escribo en: [jartigag.blog](https://jartigag.blog)",
       "avatar": {
         "alt": "carnet2sq.jpg",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/07/48cc7bc0-6e64-4f4c-8883-a9056ff2ce8b_carnet2sq.jpg"
@@ -17,18 +17,11 @@
       "location": {
         "country": "España",
         "region": "Castilla y León",
-        "municipality": "Burgos"
+        "municipality": "Burgos",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
-      {
-        "type": "github",
-        "URL": "https://github.com/jartigag"
-      },
-      {
-        "type": "other",
-        "URL": "https://jartigag.blog"
-      },
       {
         "type": "linkedin",
         "URL": "https://www.linkedin.com/in/javier-artiga-garijo/"
@@ -38,22 +31,12 @@
       {
         "title": "Blog",
         "type": "other",
-        "URL": "https://jartigag.blog/",
-        "authors": [
-          {
-            "title": "Author"
-          }
-        ]
+        "URL": "https://jartigag.blog/"
       },
       {
         "title": "Github",
         "type": "other",
-        "URL": "https://github.com/jartigag",
-        "authors": [
-          {
-            "title": "Author"
-          }
-        ]
+        "URL": "https://github.com/jartigag"
       }
     ]
   },
@@ -61,12 +44,7 @@
     "jobs": [
       {
         "organization": {
-          "name": "Centro de Servicios Avanzados (CSA)",
-          "image": {
-            "alt": "0b50f82e-d7d4-434c-8518-f16b5d548b8c_csa.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/20/bc2bd1ed-2690-4e51-ae9e-4ae82b34e6e0_0b50f82e-d7d4-434c-8.png"
-          },
-          "URL": "https://www.linkedin.com/company/centro-de-servicios-avanzado"
+          "name": "Centro de Servicios Avanzados (CSA)"
         },
         "roles": [
           {
@@ -76,48 +54,13 @@
               {
                 "description": "- Análisis proactivo de amenazas de ciberseguridad.\n- Adaptación de múltiples servicios de ciberseguridad a diversos tipos de clientes públicos (ministerios, comunidades autónomas, diputaciones, ayuntamientos) y del sector privado.\n- Coordinación con otros equipos y CSIRTs.\n- Respuesta temprana ante incidentes.\n- Auditoría de redes y seguridad.\n- Consultoría para el diseño de infraestructuras seguras.\n\n\nEDRs (CrowdStrike, Cytomic) | Threat Intelligence (MISP) | SIEM & Log Management (IBM QRadar, Graylog, Splunk)"
               }
-            ],
-            "competences": [
-              {
-                "name": "Centos",
-                "type": "technology"
-              },
-              {
-                "name": "Git",
-                "type": "technology"
-              },
-              {
-                "name": "Linux",
-                "type": "technology"
-              },
-              {
-                "name": "Pytest",
-                "type": "technology"
-              },
-              {
-                "name": "Python",
-                "type": "technology"
-              },
-              {
-                "name": "RedHat",
-                "type": "technology"
-              },
-              {
-                "name": "Windows",
-                "type": "technology"
-              }
             ]
           }
         ]
       },
       {
         "organization": {
-          "name": "Scavenger Security",
-          "image": {
-            "alt": "337a0e80-4d97-4264-9cdc-afab59604ff1_1615753306395.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/20/9e4eb533-370a-4713-909c-018581800fe6_337a0e80-4d97-4264-9.jpeg"
-          },
-          "URL": "https://scavengersecurity.com/tags/jartigag/"
+          "name": "Scavenger Security"
         },
         "roles": [
           {
@@ -129,12 +72,7 @@
       },
       {
         "organization": {
-          "name": "Naudit HPCN",
-          "image": {
-            "alt": "953e9b5d-9f9d-4d18-b87b-33c052799b96_naudit.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/20/30e298a9-979c-4a00-99cc-bbdeaa4e019b_953e9b5d-9f9d-4d18-b.png"
-          },
-          "URL": "https://www.linkedin.com/company/naudit-hpcn"
+          "name": "Naudit HPCN"
         },
         "roles": [
           {
@@ -145,56 +83,13 @@
               {
                 "description": "- Implementación propia de diversas soluciones para clientes finales, enfocadas principalmente en ciberseguridad. Por ejemplo:\n  - SIEM con logs de distintos firewalls, servidores Windows y muchas otras fuentes.\n  - API de alertas por email sobre queries a Elasticsearch o PostgreSQL.\n  - Informes de monitorización periódicos.\n- Seguimiento continuo con clientes internacionales, ayudando en la definición de sus necesidades y personalización de sus despliegues.\n- Diseño de dashboards para monitorizar datos de red, sistemas y negocio.\n- Análisis de tráfico en grandes redes (investigación de incidencias, optimización).\n- Desarrollo de procesados en tiempo real sobre altos volúmenes de logs.\n- Administración de sistemas Linux. Scripting, automatización, mantenimiento."
               }
-            ],
-            "competences": [
-              {
-                "name": "AWK",
-                "type": "technology"
-              },
-              {
-                "name": "Elasticsearch",
-                "type": "technology"
-              },
-              {
-                "name": "Git",
-                "type": "technology"
-              },
-              {
-                "name": "Grafana",
-                "type": "technology"
-              },
-              {
-                "name": "Kibana",
-                "type": "technology"
-              },
-              {
-                "name": "Linux",
-                "type": "technology"
-              },
-              {
-                "name": "Logstash",
-                "type": "technology"
-              },
-              {
-                "name": "PostgreSQL",
-                "type": "technology"
-              },
-              {
-                "name": "Python",
-                "type": "technology"
-              }
             ]
           }
         ]
       },
       {
         "organization": {
-          "name": "ElevenPaths",
-          "image": {
-            "alt": "a90ebbda-04ac-45d3-9271-949130684458_11p.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/20/b30f7106-e571-4610-9017-63e4ccdd6b50_a90ebbda-04ac-45d3-9.png"
-          },
-          "URL": "https://www.linkedin.com/company/telefonicatech"
+          "name": "ElevenPaths"
         },
         "roles": [
           {
@@ -205,39 +100,12 @@
               {
                 "description": "Desarrollo de un proyecto (dentro del \"Reto Ciberseguridad y Big Data\") para detectar dominios typosquatting, que luego presenté como mi TFG."
               }
-            ],
-            "competences": [
-              {
-                "name": "Elasticsearch",
-                "type": "technology"
-              },
-              {
-                "name": "Linux",
-                "type": "technology"
-              },
-              {
-                "name": "Python",
-                "type": "technology"
-              }
             ]
           }
         ]
       }
     ],
     "projects": [
-      {
-        "details": {
-          "name": "jartigag.blog",
-          "URL": "https://jartigag.blog/"
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2019-01-01"
-          }
-        ]
-      },
       {
         "details": {
           "name": "Caracterización de equipos informáticos mediante clustering en una red empresarial",
@@ -259,20 +127,14 @@
       },
       {
         "details": {
-          "name": "TheyLendMe",
-          "description": "App que facilita el préstamo de objetos de todo tipo, tanto entre individuos como entre grupos (comunidades, equipos, colectivos, etc.).\n\nAparición en [prensa digital](https://www.diariodevalladolid.es/noticias/innovadores/secretario-infalible-prestamos_153901.html) y en [edición en papel](https://jartigag.blog/assets/images/elmundo-innovadores-2019-06-04.jpg).",
-          "URL": "https://theylendme.github.io/",
-          "image": {
-            "alt": "43826046.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/16/eaf2b2f9-bb8c-4360-babb-31a77baf67a7_43826046.png"
-          }
+          "name": "jartigag.blog",
+          "URL": "https://jartigag.blog/"
         },
         "type": "sideProject",
         "roles": [
           {
             "name": "Developer",
-            "startDate": "2018-10-01",
-            "finishDate": "2018-12-01"
+            "startDate": "2019-01-01"
           }
         ]
       },
@@ -294,25 +156,40 @@
             "finishDate": "2018-09-01"
           }
         ]
+      },
+      {
+        "details": {
+          "name": "TheyLendMe",
+          "description": "App que facilita el préstamo de objetos de todo tipo, tanto entre individuos como entre grupos (comunidades, equipos, colectivos, etc.).\n\nAparición en [prensa digital](https://www.diariodevalladolid.es/noticias/innovadores/secretario-infalible-prestamos_153901.html) y en [edición en papel](https://jartigag.blog/assets/images/elmundo-innovadores-2019-06-04.jpg).",
+          "URL": "https://theylendme.github.io/",
+          "image": {
+            "alt": "43826046.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/16/eaf2b2f9-bb8c-4360-babb-31a77baf67a7_43826046.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2018-10-01",
+            "finishDate": "2018-12-01"
+          }
+        ]
       }
     ]
   },
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "Inglés",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Español",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
-      {
-        "skill": {
-          "name": "Elasticsearch",
-          "type": "technology"
-        }
-      },
       {
         "skill": {
           "name": "Git",
@@ -327,7 +204,7 @@
       },
       {
         "skill": {
-          "name": "Linux",
+          "name": "Elasticsearch",
           "type": "technology"
         }
       },
@@ -336,9 +213,60 @@
           "name": "Python",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
       }
     ],
     "studies": [
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": " CCFH (Hunter)",
+        "startDate": "2022-08-01",
+        "finishDate": "2025-08-01",
+        "institution": {
+          "name": "CrowdStrike",
+          "description": "Número de registro: 426760390\nNúmero de validación: 782132936\nhttps://www9.pearsonvue.com/testtaker/authenticate/AuthenticateScoreReport.htm",
+          "URL": "https://www.crowdstrike.com/crowdstrike-university/crowdstrike-falcon-certification-program/",
+          "image": {
+            "alt": "1633985770672.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/20/e4bbd11a-1231-4d89-bafe-dafc95e3177a_1633985770672.jpeg"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "B2 First",
+        "startDate": "2011-05-01",
+        "institution": {
+          "name": "Cambridge Assessment English",
+          "image": {
+            "alt": "1650876512808.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/16/bedfb20e-fe56-4bb3-a4e2-fd84ce56f0f2_1650876512808.jpeg"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "CCFR (Responder)",
+        "startDate": "2022-08-01",
+        "finishDate": "2025-08-01",
+        "institution": {
+          "name": "CrowdStrike",
+          "description": "Número de registro: 426833974\nNúmero de validación: 1892019407\nhttps://www9.pearsonvue.com/testtaker/authenticate/AuthenticateScoreReport.htm",
+          "URL": "https://www.crowdstrike.com/crowdstrike-university/crowdstrike-falcon-certification-program/",
+          "image": {
+            "alt": "1633985770672.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/20/515f381f-b2f6-423d-a8f4-8f606821e549_1633985770672.jpeg"
+          }
+        }
+      },
       {
         "studyType": "certification",
         "degreeAchieved": false,
@@ -382,19 +310,6 @@
       },
       {
         "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "B2 First",
-        "startDate": "2011-05-01",
-        "institution": {
-          "name": "Cambridge Assessment English",
-          "image": {
-            "alt": "1650876512808.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/16/bedfb20e-fe56-4bb3-a4e2-fd84ce56f0f2_1650876512808.jpeg"
-          }
-        }
-      },
-      {
-        "studyType": "certification",
         "degreeAchieved": true,
         "name": "Cytomic Technical Certification",
         "startDate": "2022-11-01",
@@ -409,36 +324,42 @@
         }
       },
       {
-        "studyType": "certification",
+        "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": " CCFH (Hunter)",
-        "startDate": "2022-08-01",
-        "finishDate": "2025-08-01",
+        "name": "Engineering ",
+        "startDate": "2015-09-01",
+        "finishDate": "2019-06-01",
         "institution": {
-          "name": "CrowdStrike",
-          "description": "Número de registro: 426760390\nNúmero de validación: 782132936\nhttps://www9.pearsonvue.com/testtaker/authenticate/AuthenticateScoreReport.htm",
-          "URL": "https://www.crowdstrike.com/crowdstrike-university/crowdstrike-falcon-certification-program/",
+          "name": "Universidad Pública de Navarra",
+          "description": "Ingeniería de Telecomunicaciones, mención en telemática",
+          "URL": "https://www.linkedin.com/school/universidad-publica-de-navarra/",
           "image": {
-            "alt": "1633985770672.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/20/e4bbd11a-1231-4d89-bafe-dafc95e3177a_1633985770672.jpeg"
+            "alt": "upna.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/16/62dfabba-c254-44fd-9901-b810c403930b_upna.png"
           }
-        }
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "CCFR (Responder)",
-        "startDate": "2022-08-01",
-        "finishDate": "2025-08-01",
-        "institution": {
-          "name": "CrowdStrike",
-          "description": "Número de registro: 426833974\nNúmero de validación: 1892019407\nhttps://www9.pearsonvue.com/testtaker/authenticate/AuthenticateScoreReport.htm",
-          "URL": "https://www.crowdstrike.com/crowdstrike-university/crowdstrike-falcon-certification-program/",
-          "image": {
-            "alt": "1633985770672.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/20/515f381f-b2f6-423d-a8f4-8f606821e549_1633985770672.jpeg"
+        },
+        "linkedCompetences": [
+          {
+            "name": "Cisco",
+            "type": "technology"
+          },
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "Matlab",
+            "type": "technology"
+          },
+          {
+            "name": "PHP",
+            "type": "technology"
           }
-        }
+        ]
       },
       {
         "studyType": "officialDegree",
@@ -481,44 +402,6 @@
             "type": "technology"
           }
         ]
-      },
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "Engineering ",
-        "startDate": "2015-09-01",
-        "finishDate": "2019-06-01",
-        "institution": {
-          "name": "Universidad Pública de Navarra",
-          "description": "Ingeniería de Telecomunicaciones, mención en telemática",
-          "URL": "https://www.linkedin.com/school/universidad-publica-de-navarra/",
-          "image": {
-            "alt": "upna.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/16/62dfabba-c254-44fd-9901-b810c403930b_upna.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "Cisco",
-            "type": "technology"
-          },
-          {
-            "name": "JAVA",
-            "type": "technology"
-          },
-          {
-            "name": "JavaScript",
-            "type": "technology"
-          },
-          {
-            "name": "Matlab",
-            "type": "technology"
-          },
-          {
-            "name": "PHP",
-            "type": "technology"
-          }
-        ]
       }
     ]
   },
@@ -537,6 +420,7 @@
         "Engineering Management",
         "Security Engineer"
       ]
-    }
+    },
+    "status": "openToOffers"
   }
 }
