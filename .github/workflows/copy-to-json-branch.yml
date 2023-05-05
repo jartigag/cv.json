@@ -13,7 +13,7 @@ jobs:
           git config user.name "github-actions"
           git remote add github https://github.com/jartigag/mnf.red
           git pull github main
-          git checkout -b json github/json
+          git fetch
           git switch json
           mkdir CV/
           git checkout main CV/MAC.json
