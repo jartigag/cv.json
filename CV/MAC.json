@@ -112,7 +112,12 @@
       },
       {
         "organization": {
-          "name": "Naudit HPCN"
+          "name": "Naudit HPCN",
+          "image": {
+            "alt": "953e9b5d-9f9d-4d18-b87b-33c052799b96_naudit.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/05/cb767b3a-e47a-4621-89eb-7805beebf69a_953e9b5d-9f9d-4d18-b.png"
+          },
+          "URL": "https://www.linkedin.com/company/naudit-hpcn"
         },
         "roles": [
           {
@@ -122,6 +127,40 @@
             "challenges": [
               {
                 "description": "- Implementación propia de diversas soluciones para clientes finales, enfocadas principalmente en ciberseguridad. Por ejemplo:\n  - SIEM con logs de distintos firewalls, servidores Windows y muchas otras fuentes.\n  - API de alertas por email sobre queries a Elasticsearch o PostgreSQL.\n  - Informes de monitorización periódicos.\n- Seguimiento continuo con clientes internacionales, ayudando en la definición de sus necesidades y personalización de sus despliegues.\n- Diseño de dashboards para monitorizar datos de red, sistemas y negocio.\n- Análisis de tráfico en grandes redes (investigación de incidencias, optimización).\n- Desarrollo de procesados en tiempo real sobre altos volúmenes de logs.\n- Administración de sistemas Linux. Scripting, automatización, mantenimiento."
+              }
+            ],
+            "competences": [
+              {
+                "name": "AWK",
+                "type": "technology"
+              },
+              {
+                "name": "Elasticsearch",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "Grafana",
+                "type": "technology"
+              },
+              {
+                "name": "Kibana",
+                "type": "technology"
+              },
+              {
+                "name": "Linux",
+                "type": "technology"
+              },
+              {
+                "name": "Logstash",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
               }
             ]
           }
