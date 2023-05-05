@@ -8,13 +8,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-        with:
-        ssh: ${{ secrets.SSH_PRIVATE_KEY }}
       - run: |
           git config user.email "jartigag@pm.me"
           git config user.name "jartigag"
-          git pull
-          git fetch
+          git fetch origin json:json
           git switch json
           mkdir CV/
           git checkout main CV/MAC.json
