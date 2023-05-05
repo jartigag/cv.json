@@ -44,7 +44,12 @@
     "jobs": [
       {
         "organization": {
-          "name": "Scavenger Security"
+          "name": "Scavenger Security",
+          "image": {
+            "alt": "337a0e80-4d97-4264-9cdc-afab59604ff1_1615753306395.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/05/a28a4c9b-46eb-46d2-a148-91fa897e6e1b_337a0e80-4d97-4264-9.jpeg"
+          },
+          "URL": "https://scavengersecurity.com/tags/jartigag/"
         },
         "roles": [
           {
