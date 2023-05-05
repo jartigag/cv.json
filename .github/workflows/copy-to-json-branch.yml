@@ -11,6 +11,7 @@ jobs:
       - run: |
           git config user.email "actions@users.noreply.github.com"
           git config user.name "github-actions"
+          git checkout -b json origin/json
           git pull origin main
           git switch json
           mkdir CV/
