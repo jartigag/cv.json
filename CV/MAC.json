@@ -152,6 +152,10 @@
               {
                 "name": "Logstash",
                 "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
               }
             ]
           }
