@@ -19,4 +19,4 @@ jobs:
           rm -r CV/
           git add -A
           git commit -m "update index.json"
-          git push
+          git push origin json
