@@ -8,8 +8,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-          with:
-          ssh: ${{ secrets.SSH_PRIVATE_KEY }}
+        with:
+        ssh: ${{ secrets.SSH_PRIVATE_KEY }}
       - run: |
           git config user.email "jartigag@pm.me"
           git config user.name "jartigag"
