@@ -181,24 +181,18 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Inglés",
-        "level": "Limited working proficiency"
+        "name": "Español",
+        "level": "Native or bilingual proficiency"
       },
       {
-        "name": "Español",
-        "level": "Limited working proficiency"
+        "name": "Inglés",
+        "level": "Full professional proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "Git",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Grafana",
+          "name": "Python",
           "type": "technology"
         }
       },
@@ -210,13 +204,19 @@
       },
       {
         "skill": {
-          "name": "Python",
+          "name": "Linux",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Linux",
+          "name": "Grafana",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
           "type": "technology"
         }
       }
@@ -422,5 +422,29 @@
       ]
     },
     "status": "openToOffers"
+  },
+  "asgardPreferences": {
+    "mainStackTechs": [
+      {
+        "name": "Python",
+        "type": "technology"
+      },
+      {
+        "name": "Elasticsearch",
+        "type": "technology"
+      },
+      {
+        "name": "Linux",
+        "type": "technology"
+      },
+      {
+        "name": "Grafana",
+        "type": "technology"
+      },
+      {
+        "name": "Git",
+        "type": "technology"
+      }
+    ]
   }
 }
