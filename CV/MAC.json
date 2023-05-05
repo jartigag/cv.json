@@ -47,7 +47,7 @@
           "name": "Centro de Servicios Avanzados (CSA)",
           "image": {
             "alt": "0b50f82e-d7d4-434c-8518-f16b5d548b8c_csa.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/05/c8b3924f-f2b7-4b9b-8004-71a791543a38_0b50f82e-d7d4-434c-8.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/05/6297fd3d-ac9b-4bf5-9857-a3fd3302a8d7_0b50f82e-d7d4-434c-8.png"
           },
           "URL": "https://www.linkedin.com/company/centro-de-servicios-avanzado"
         },
@@ -223,18 +223,6 @@
       },
       {
         "skill": {
-          "name": "Python",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Elasticsearch",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Git",
           "type": "technology"
         }
@@ -242,6 +230,18 @@
       {
         "skill": {
           "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Elasticsearch",
           "type": "technology"
         }
       }
@@ -455,19 +455,19 @@
         "type": "technology"
       },
       {
-        "name": "Python",
-        "type": "technology"
-      },
-      {
-        "name": "Elasticsearch",
-        "type": "technology"
-      },
-      {
         "name": "Git",
         "type": "technology"
       },
       {
         "name": "Linux",
+        "type": "technology"
+      },
+      {
+        "name": "Python",
+        "type": "technology"
+      },
+      {
+        "name": "Elasticsearch",
         "type": "technology"
       }
     ]
