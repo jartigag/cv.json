@@ -11,12 +11,13 @@ jobs:
       - run: |
           git config user.email "actions@users.noreply.github.com"
           git config user.name "github-actions"
+          git pull main
           git switch json
           mkdir CV/
           git checkout main CV/MAC.json
           mv CV/MAC.json index.json
           rm -r CV/
           git add -A
-          git commit -m "update index.json" || exit 0
+          git commit -m "update index.json"
           git push origin json
 
