@@ -103,7 +103,12 @@
       },
       {
         "organization": {
-          "name": "Scavenger Security"
+          "name": "Scavenger Security",
+          "image": {
+            "alt": "337a0e80-4d97-4264-9cdc-afab59604ff1_1615753306395.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/05/14bac39e-83d8-4b59-8d8f-b7a5ad666a88_337a0e80-4d97-4264-9.jpeg"
+          },
+          "URL": "https://scavengersecurity.com/tags/jartigag/"
         },
         "roles": [
           {
