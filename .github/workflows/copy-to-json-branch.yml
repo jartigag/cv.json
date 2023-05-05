@@ -11,8 +11,9 @@ jobs:
       - run: |
           git config user.email "actions@users.noreply.github.com"
           git config user.name "github-actions"
-          git checkout -b json origin/json
-          git pull origin main
+          git remote add github https://github.com/jartigag/mnf.red
+          git pull github main
+          git checkout -b json github/json
           git switch json
           mkdir CV/
           git checkout main CV/MAC.json
@@ -20,5 +21,4 @@ jobs:
           rm -r CV/
           git add -A
           git commit -m "update index.json"
-          git push origin json
-
+          git push github json
