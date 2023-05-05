@@ -44,27 +44,10 @@
     "jobs": [
       {
         "organization": {
-          "name": "Scavenger Security",
-          "image": {
-            "alt": "337a0e80-4d97-4264-9cdc-afab59604ff1_1615753306395.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/05/06229465-55a6-427a-a886-c6294dac116b_337a0e80-4d97-4264-9.jpeg"
-          },
-          "URL": "https://scavengersecurity.com/tags/jartigag"
-        },
-        "roles": [
-          {
-            "name": "CTF Player",
-            "startDate": "2021-09-01",
-            "finishDate": "2022-05-01"
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Centro de Servicios Avanzados (CSA)",
           "image": {
             "alt": "0b50f82e-d7d4-434c-8518-f16b5d548b8c_csa.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/05/b93426b9-c316-4029-878e-40f4609598ee_0b50f82e-d7d4-434c-8.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/05/ff46586a-d4db-44ed-a962-2ec674d51e3c_0b50f82e-d7d4-434c-8.png"
           },
           "URL": "https://www.linkedin.com/company/centro-de-servicios-avanzado"
         },
@@ -112,12 +95,19 @@
       },
       {
         "organization": {
-          "name": "Naudit HPCN",
-          "image": {
-            "alt": "953e9b5d-9f9d-4d18-b87b-33c052799b96_naudit.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/05/2b7eb2ef-5e6d-4d3a-9d22-267478e5a126_953e9b5d-9f9d-4d18-b.png"
-          },
-          "URL": "https://www.linkedin.com/company/naudit-hpcn"
+          "name": "Scavenger Security"
+        },
+        "roles": [
+          {
+            "name": "CTF Player",
+            "startDate": "2021-09-01",
+            "finishDate": "2022-05-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Naudit HPCN"
         },
         "roles": [
           {
@@ -128,56 +118,13 @@
               {
                 "description": "- Implementación propia de diversas soluciones para clientes finales, enfocadas principalmente en ciberseguridad. Por ejemplo:\n  - SIEM con logs de distintos firewalls, servidores Windows y muchas otras fuentes.\n  - API de alertas por email sobre queries a Elasticsearch o PostgreSQL.\n  - Informes de monitorización periódicos.\n- Seguimiento continuo con clientes internacionales, ayudando en la definición de sus necesidades y personalización de sus despliegues.\n- Diseño de dashboards para monitorizar datos de red, sistemas y negocio.\n- Análisis de tráfico en grandes redes (investigación de incidencias, optimización).\n- Desarrollo de procesados en tiempo real sobre altos volúmenes de logs.\n- Administración de sistemas Linux. Scripting, automatización, mantenimiento."
               }
-            ],
-            "competences": [
-              {
-                "name": "AWK",
-                "type": "technology"
-              },
-              {
-                "name": "Elasticsearch",
-                "type": "technology"
-              },
-              {
-                "name": "Git",
-                "type": "technology"
-              },
-              {
-                "name": "Grafana",
-                "type": "technology"
-              },
-              {
-                "name": "Kibana",
-                "type": "technology"
-              },
-              {
-                "name": "Linux",
-                "type": "technology"
-              },
-              {
-                "name": "Logstash",
-                "type": "technology"
-              },
-              {
-                "name": "PostgreSQL",
-                "type": "technology"
-              },
-              {
-                "name": "Python",
-                "type": "technology"
-              }
             ]
           }
         ]
       },
       {
         "organization": {
-          "name": "ElevenPaths",
-          "image": {
-            "alt": "a90ebbda-04ac-45d3-9271-949130684458_11p.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/05/23810eb2-3ab4-4678-8ce9-7f509fd2b62d_a90ebbda-04ac-45d3-9.png"
-          },
-          "URL": "https://www.linkedin.com/company/telefonicatech"
+          "name": "ElevenPaths"
         },
         "roles": [
           {
@@ -187,20 +134,6 @@
             "challenges": [
               {
                 "description": "Desarrollo de un proyecto (dentro del \"Reto Ciberseguridad y Big Data\") para detectar dominios typosquatting, que luego presenté como mi TFG."
-              }
-            ],
-            "competences": [
-              {
-                "name": "Elasticsearch",
-                "type": "technology"
-              },
-              {
-                "name": "Linux",
-                "type": "technology"
-              },
-              {
-                "name": "Python",
-                "type": "technology"
               }
             ]
           }
@@ -281,16 +214,6 @@
     ]
   },
   "knowledge": {
-    "languages": [
-      {
-        "name": "Español",
-        "level": "Native or bilingual proficiency"
-      },
-      {
-        "name": "Inglés",
-        "level": "Full professional proficiency"
-      }
-    ],
     "hardSkills": [
       {
         "skill": {
@@ -306,12 +229,6 @@
       },
       {
         "skill": {
-          "name": "Python",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Elasticsearch",
           "type": "technology"
         }
@@ -319,6 +236,12 @@
       {
         "skill": {
           "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
           "type": "technology"
         }
       }
