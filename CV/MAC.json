@@ -524,5 +524,21 @@
       ]
     },
     "status": "openToOffers"
+  },
+  "asgardPreferences": {
+    "mainStackTechs": [
+      {
+        "name": "Grafana",
+        "type": "technology"
+      },
+      {
+        "name": "Git",
+        "type": "technology"
+      },
+      {
+        "name": "Python",
+        "type": "technology"
+      }
+    ]
   }
 }
