@@ -1,0 +1,22 @@
+name: Copy file to json branch
+on:
+  push:
+    branches: [ master ]
+    paths: [ 'CV/MAC.json' ]
+jobs:
+  foreach_pull:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - run: |
+          git config user.email "actions@users.noreply.github.com"
+          git config user.name "github-actions"
+          git switch json
+          mkdir CV/
+          git checkout main CV/MAC.json
+          mv CV/MAC.json index.json
+          rm -r CV/
+          git add -A
+          git commit -m "update index.json" || exit 0
+          git push origin json
+
