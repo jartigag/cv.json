@@ -44,18 +44,6 @@
     "jobs": [
       {
         "organization": {
-          "name": "Scavenger Security"
-        },
-        "roles": [
-          {
-            "name": "CTF Player",
-            "startDate": "2021-09-01",
-            "finishDate": "2022-05-01"
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Centro de Servicios Avanzados (CSA)"
         },
         "roles": [
@@ -67,6 +55,18 @@
                 "description": "- Análisis proactivo de amenazas de ciberseguridad.\n- Adaptación de múltiples servicios de ciberseguridad a diversos tipos de clientes públicos (ministerios, comunidades autónomas, diputaciones, ayuntamientos) y del sector privado.\n- Coordinación con otros equipos y CSIRTs.\n- Respuesta temprana ante incidentes.\n- Auditoría de redes y seguridad.\n- Consultoría para el diseño de infraestructuras seguras.\n\n\nEDRs (CrowdStrike, Cytomic) | Threat Intelligence (MISP) | SIEM & Log Management (IBM QRadar, Graylog, Splunk)"
               }
             ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Scavenger Security"
+        },
+        "roles": [
+          {
+            "name": "CTF Player",
+            "startDate": "2021-09-01",
+            "finishDate": "2022-05-01"
           }
         ]
       },
@@ -188,12 +188,6 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "Elasticsearch",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Git",
           "type": "technology"
         }
@@ -207,6 +201,12 @@
       {
         "skill": {
           "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Elasticsearch",
           "type": "technology"
         }
       },
@@ -422,10 +422,6 @@
   "asgardPreferences": {
     "mainStackTechs": [
       {
-        "name": "Elasticsearch",
-        "type": "technology"
-      },
-      {
         "name": "Git",
         "type": "technology"
       },
@@ -435,6 +431,10 @@
       },
       {
         "name": "Python",
+        "type": "technology"
+      },
+      {
+        "name": "Elasticsearch",
         "type": "technology"
       },
       {
