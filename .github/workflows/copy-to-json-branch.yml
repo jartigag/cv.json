@@ -1,7 +1,7 @@
 name: Copy file to json branch
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
     paths: [ 'CV/MAC.json' ]
 jobs:
   foreach_pull:
