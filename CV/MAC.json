@@ -172,7 +172,12 @@
       },
       {
         "organization": {
-          "name": "ElevenPaths"
+          "name": "ElevenPaths",
+          "image": {
+            "alt": "a90ebbda-04ac-45d3-9271-949130684458_11p.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/05/bdc93fa7-3702-4ba8-a061-048feb9a1246_a90ebbda-04ac-45d3-9.png"
+          },
+          "URL": "https://www.linkedin.com/company/telefonicatech"
         },
         "roles": [
           {
@@ -182,6 +187,20 @@
             "challenges": [
               {
                 "description": "Desarrollo de un proyecto (dentro del \"Reto Ciberseguridad y Big Data\") para detectar dominios typosquatting, que luego presenté como mi TFG."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Elasticsearch",
+                "type": "technology"
+              },
+              {
+                "name": "Linux",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
               }
             ]
           }
