@@ -11,30 +11,16 @@
       "title": "Cybersecurity Analyst (Threat Hunting)",
       "description": "Soy un ingeniero de telecomunicaciones (máster en big data) en su quinto año de vida laboral, muy interesado en la ciberseguridad, el análisis de datos, el desarrollo de software con buenas prácticas, en colaborar con gente motivada por trabajar en un objetivo común y en general en seguir progresando en mi carrera profesional en el mundo tecnológico, que considero que ofrece infinidad de oportunidades de crecer en muchos sentidos.\n\nDesde septiembre de 2021, trabajo en una empresa de servicios de ciberseguridad, principalmente con clientes del sector público español. Mi tarea fundamental es el threat hunting, para lo cual utilizo múltiples soluciones del mercado (como EDRs, SIEMs, etc.) integradas con mis propias herramientas. También he formado parte de varios CSIRTs y he apoyado en respuesta a incidentes, consultoría de infraestructuras seguras, auditoría de redes y desarrollo de productos internos.\n\nAntes trabajé en una spin-off de monitorización de redes desde enero de 2019 hasta septiembre de 2021, dentro de un proyecto internacional cuyo enfoque principal fue construir un SIEM por completo, con el stack ELK y herramientas que desarrollamos en equipo. Lo hice junto a un grupo fantástico del que aprendí un montón y al que pude aportar en igual medida.\n\nCreo que es más fácil conocerme leyendo un poco los artículos que escribo en: [jartigag.blog](https://jartigag.blog).",
       "avatar": {
-        "alt": "carnet2sq.jpg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/07/48cc7bc0-6e64-4f4c-8883-a9056ff2ce8b_carnet2sq.jpg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/07/48cc7bc0-6e64-4f4c-8883-a9056ff2ce8b_carnet2sq.jpg",
+        "alt": "carnet2sq.jpg"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJJwPCPb78RQ0RoRrnuOpbHwo)",
         "country": "España",
         "region": "Castilla y León",
-        "municipality": "Burgos",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Burgos"
       }
     },
-    "relevantLinks": [
-      {
-        "type": "github",
-        "URL": "https://github.com/jartigag"
-      },
-      {
-        "type": "other",
-        "URL": "https://jartigag.blog"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/javier-artiga-garijo/"
-      }
-    ],
     "recommendations": [
       {
         "title": "Blog",
@@ -46,6 +32,12 @@
         "type": "other",
         "URL": "https://github.com/jartigag"
       }
+    ],
+    "relevantLinks": [
+      {
+        "type": "other",
+        "URL": "https://jartigag.blog"
+      }
     ]
   },
   "experience": {
@@ -54,8 +46,8 @@
         "organization": {
           "name": "Centro de Servicios Avanzados (CSA)",
           "image": {
-            "alt": "0b50f82e-d7d4-434c-8518-f16b5d548b8c_csa.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/05/2879c402-3fe5-4218-824e-445ce9ab1409_0b50f82e-d7d4-434c-8.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/05/2879c402-3fe5-4218-824e-445ce9ab1409_0b50f82e-d7d4-434c-8.png",
+            "alt": "0b50f82e-d7d4-434c-8518-f16b5d548b8c_csa.png"
           },
           "URL": "https://www.linkedin.com/company/centro-de-servicios-avanzado"
         },
@@ -105,8 +97,8 @@
         "organization": {
           "name": "Scavenger Security",
           "image": {
-            "alt": "337a0e80-4d97-4264-9cdc-afab59604ff1_1615753306395.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/05/14bac39e-83d8-4b59-8d8f-b7a5ad666a88_337a0e80-4d97-4264-9.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/05/14bac39e-83d8-4b59-8d8f-b7a5ad666a88_337a0e80-4d97-4264-9.jpeg",
+            "alt": "337a0e80-4d97-4264-9cdc-afab59604ff1_1615753306395.jpeg"
           },
           "URL": "https://scavengersecurity.com/tags/jartigag/"
         },
@@ -122,8 +114,8 @@
         "organization": {
           "name": "Naudit HPCN",
           "image": {
-            "alt": "953e9b5d-9f9d-4d18-b87b-33c052799b96_naudit.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/05/a3f1708b-1223-4b6e-a624-2ec0f1cfabe9_953e9b5d-9f9d-4d18-b.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/05/a3f1708b-1223-4b6e-a624-2ec0f1cfabe9_953e9b5d-9f9d-4d18-b.png",
+            "alt": "953e9b5d-9f9d-4d18-b87b-33c052799b96_naudit.png"
           },
           "URL": "https://www.linkedin.com/company/naudit-hpcn"
         },
@@ -182,8 +174,8 @@
         "organization": {
           "name": "ElevenPaths",
           "image": {
-            "alt": "a90ebbda-04ac-45d3-9271-949130684458_11p.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/05/737b8bb8-0288-4ceb-8f00-0244c41a510f_a90ebbda-04ac-45d3-9.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/05/737b8bb8-0288-4ceb-8f00-0244c41a510f_a90ebbda-04ac-45d3-9.png",
+            "alt": "a90ebbda-04ac-45d3-9271-949130684458_11p.png"
           },
           "URL": "https://www.linkedin.com/company/telefonicatech"
         },
@@ -222,8 +214,8 @@
           "description": "Clasificación de equipos finales según su actividad de red y detección de comportamientos sospechosos, usando técnicas de clustering a partir de logs extraídos de firewalls.",
           "URL": "https://github.com/jartigag/tfm-clustering",
           "image": {
-            "alt": "68747470733a2f2f61736369696e656d612e6f72672f612f3338383839312e737667.svg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/16/de962f4a-77b9-4fd0-84c9-7188c89bbb6b_68747470733a2f2f6173.svg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/16/de962f4a-77b9-4fd0-84c9-7188c89bbb6b_68747470733a2f2f6173.svg",
+            "alt": "68747470733a2f2f61736369696e656d612e6f72672f612f3338383839312e737667.svg"
           }
         },
         "type": "sideProject",
@@ -237,25 +229,12 @@
       },
       {
         "details": {
-          "name": "jartigag.blog",
-          "URL": "https://jartigag.blog/"
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2019-01-01"
-          }
-        ]
-      },
-      {
-        "details": {
           "name": "Sistema de detección de dominios typosquatting",
           "description": "Sistema de monitorización de dominios typosquatting, basado en recoger información con peticiones DNS, Whois y HTTP y almacenarla en un servidor de búsqueda Elasticsearch.",
           "URL": "https://javier.artiga.es/paper-tfg-javier_artiga_garijo.pdf",
           "image": {
-            "alt": "Screenshot_20220516_114307.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/16/44071255-899d-467d-8187-75ec5dd7faa5_screenshot_20220516_.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/16/44071255-899d-467d-8187-75ec5dd7faa5_screenshot_20220516_.png",
+            "alt": "Screenshot_20220516_114307.png"
           }
         },
         "type": "sideProject",
@@ -273,8 +252,8 @@
           "description": "App que facilita el préstamo de objetos de todo tipo, tanto entre individuos como entre grupos (comunidades, equipos, colectivos, etc.).\n\nAparición en [prensa digital](https://www.diariodevalladolid.es/noticias/innovadores/secretario-infalible-prestamos_153901.html) y en [edición en papel](https://jartigag.blog/assets/images/elmundo-innovadores-2019-06-04.jpg).",
           "URL": "https://theylendme.github.io/",
           "image": {
-            "alt": "43826046.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/16/eaf2b2f9-bb8c-4360-babb-31a77baf67a7_43826046.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/16/eaf2b2f9-bb8c-4360-babb-31a77baf67a7_43826046.png",
+            "alt": "43826046.png"
           }
         },
         "type": "sideProject",
@@ -285,27 +264,38 @@
             "finishDate": "2018-12-01"
           }
         ]
+      },
+      {
+        "details": {
+          "name": "jartigag.blog",
+          "URL": "https://jartigag.blog/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/07/23/8da20d07-a137-4347-8c79-57d58c439177_favicon.png",
+            "alt": "favicon.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2019-01-01"
+          }
+        ]
       }
     ]
   },
   "knowledge": {
     "languages": [
       {
-        "name": "Español",
-        "level": "Native or bilingual proficiency"
+        "name": "EN",
+        "level": "Full professional proficiency"
       },
       {
-        "name": "Inglés",
-        "level": "Full professional proficiency"
+        "name": "ES",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
-      {
-        "skill": {
-          "name": "Python",
-          "type": "technology"
-        }
-      },
       {
         "skill": {
           "name": "Elasticsearch",
@@ -314,7 +304,7 @@
       },
       {
         "skill": {
-          "name": "Linux",
+          "name": "Git",
           "type": "technology"
         }
       },
@@ -326,7 +316,13 @@
       },
       {
         "skill": {
-          "name": "Git",
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
           "type": "technology"
         }
       }
@@ -337,16 +333,16 @@
         "degreeAchieved": true,
         "name": " CCFH (Hunter)",
         "startDate": "2022-08-01",
-        "finishDate": "2025-08-01",
         "institution": {
           "name": "CrowdStrike",
           "description": "Número de registro: 426760390\nNúmero de validación: 782132936\nhttps://www9.pearsonvue.com/testtaker/authenticate/AuthenticateScoreReport.htm",
           "URL": "https://www.crowdstrike.com/crowdstrike-university/crowdstrike-falcon-certification-program/",
           "image": {
-            "alt": "1633985770672.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/20/e4bbd11a-1231-4d89-bafe-dafc95e3177a_1633985770672.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/20/e4bbd11a-1231-4d89-bafe-dafc95e3177a_1633985770672.jpeg",
+            "alt": "1633985770672.jpeg"
           }
-        }
+        },
+        "finishDate": "2025-08-01"
       },
       {
         "studyType": "certification",
@@ -356,8 +352,8 @@
         "institution": {
           "name": "Cambridge Assessment English",
           "image": {
-            "alt": "1650876512808.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/16/bedfb20e-fe56-4bb3-a4e2-fd84ce56f0f2_1650876512808.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/16/bedfb20e-fe56-4bb3-a4e2-fd84ce56f0f2_1650876512808.jpeg",
+            "alt": "1650876512808.jpeg"
           }
         }
       },
@@ -366,16 +362,16 @@
         "degreeAchieved": true,
         "name": "CCFR (Responder)",
         "startDate": "2022-08-01",
-        "finishDate": "2025-08-01",
         "institution": {
           "name": "CrowdStrike",
           "description": "Número de registro: 426833974\nNúmero de validación: 1892019407\nhttps://www9.pearsonvue.com/testtaker/authenticate/AuthenticateScoreReport.htm",
           "URL": "https://www.crowdstrike.com/crowdstrike-university/crowdstrike-falcon-certification-program/",
           "image": {
-            "alt": "1633985770672.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/20/515f381f-b2f6-423d-a8f4-8f606821e549_1633985770672.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/20/515f381f-b2f6-423d-a8f4-8f606821e549_1633985770672.jpeg",
+            "alt": "1633985770672.jpeg"
           }
-        }
+        },
+        "finishDate": "2025-08-01"
       },
       {
         "studyType": "certification",
@@ -387,8 +383,8 @@
           "description": "Formación presencial de 160 h, titulación oficial homologada.\nID de la credencial: EE3B0B28698B5652ID (https://administracionelectronica.navarra.es/validarCSV).\n\nPubliqué mis apuntes en [https://jartigag.github.io/bikoschool](https://jartigag.github.io/curso-biko-desarrollo-software-xp/)",
           "URL": "https://www.biko2.com/bikoschool/curso-desarrollo-software/",
           "image": {
-            "alt": "biko.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/16/a6f39e00-695c-4e2a-8e7b-90742bf87678_biko.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/16/a6f39e00-695c-4e2a-8e7b-90742bf87678_biko.png",
+            "alt": "biko.png"
           }
         },
         "linkedCompetences": [
@@ -423,31 +419,31 @@
         "degreeAchieved": true,
         "name": "Cytomic Technical Certification",
         "startDate": "2022-11-01",
-        "finishDate": "2024-11-01",
         "institution": {
           "name": "WatchGuard Technologies",
           "URL": "https://www.watchguard.com/wgrd-training/certification",
           "image": {
-            "alt": "1562602357356.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/20/3d33c435-4e92-42a1-a8fb-bb0a3762da04_1562602357356.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/20/3d33c435-4e92-42a1-a8fb-bb0a3762da04_1562602357356.jpeg",
+            "alt": "1562602357356.jpeg"
           }
-        }
+        },
+        "finishDate": "2024-11-01"
       },
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Engineering ",
         "startDate": "2015-09-01",
-        "finishDate": "2019-06-01",
         "institution": {
           "name": "Universidad Pública de Navarra",
           "description": "Ingeniería de Telecomunicaciones, mención en telemática",
           "URL": "https://www.linkedin.com/school/universidad-publica-de-navarra/",
           "image": {
-            "alt": "upna.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/16/62dfabba-c254-44fd-9901-b810c403930b_upna.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/16/62dfabba-c254-44fd-9901-b810c403930b_upna.png",
+            "alt": "upna.png"
           }
         },
+        "finishDate": "2019-06-01",
         "linkedCompetences": [
           {
             "name": "Cisco",
@@ -476,16 +472,16 @@
         "degreeAchieved": true,
         "name": "Master ",
         "startDate": "2019-09-01",
-        "finishDate": "2020-06-01",
         "institution": {
           "name": "UNIR - La Universidad en Internet",
           "description": "Máster Universitario en Análisis y Visualización de Datos Masivos\n\n- Inteligencia Artificial, Machine Learning\n- Estadística\n- MongoDB\n- Hadoop, Spark\n- R, Python\n- BI, Tableau, D3js, principios de visualización de datos",
           "URL": "https://www.linkedin.com/school/unir-universidad-internet/",
           "image": {
-            "alt": "unir.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/16/53a442f4-d662-4558-b54c-5117f3db4286_unir.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/16/53a442f4-d662-4558-b54c-5117f3db4286_unir.png",
+            "alt": "unir.png"
           }
         },
+        "finishDate": "2020-06-01",
         "linkedCompetences": [
           {
             "name": "D3",
@@ -513,22 +509,47 @@
           }
         ]
       }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Adaptabilidad al cambio",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Aprendizaje Continuo",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Atención al detalle",
+          "type": "practice"
+        }
+      }
     ]
   },
   "careerPreferences": {
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/javier-artiga-garijo/"
+          "URL": "https://www.linkedin.com/in/javier-artiga-garijo/",
+          "type": "linkedin"
         },
         {
-          "type": "other",
-          "URL": "https://github.com/jartigag"
-        },
+          "URL": "https://github.com/jartigag",
+          "type": "github"
+        }
+      ],
+      "contactMails": [
+        "jartigag@protonmail.com"
+      ],
+      "phoneNumbers": [
         {
-          "type": "other",
-          "URL": "https://jartigag.blog"
+          "number": "658039251",
+          "countryCode": "+34"
         }
       ]
     },
@@ -541,18 +562,14 @@
     },
     "status": "openToOffers"
   },
-  "asgardPreferences": {
+  "manfredSpecificData": {
     "mainStackTechs": [
-      {
-        "name": "Python",
-        "type": "technology"
-      },
       {
         "name": "Elasticsearch",
         "type": "technology"
       },
       {
-        "name": "Linux",
+        "name": "Git",
         "type": "technology"
       },
       {
@@ -560,8 +577,35 @@
         "type": "technology"
       },
       {
-        "name": "Git",
+        "name": "Linux",
         "type": "technology"
+      },
+      {
+        "name": "Python",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "Sería en un proyecto que sienta que supone una contribución interesante, con un equipo cohesionado y motivado por ese objetivo, dentro una empresa con valores, transparente y participativa hacia fuera y hacia dentro.",
+    "projects": [
+      {
+        "name": "Caracterización de equipos informáticos mediante clustering en una red empresarial"
+      },
+      {
+        "name": "Sistema de detección de dominios typosquatting"
+      },
+      {
+        "name": "TheyLendMe"
+      },
+      {
+        "name": "jartigag.blog"
+      }
+    ],
+    "bookmarks": [
+      {
+        "name": "Blog"
+      },
+      {
+        "name": "Github"
       }
     ]
   }
