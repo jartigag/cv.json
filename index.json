@@ -57,7 +57,7 @@
             "startDate": "2021-09-01",
             "challenges": [
               {
-                "description": "- Análisis proactivo de amenazas de ciberseguridad.\n- Adaptación de múltiples servicios de ciberseguridad a diversos tipos de clientes públicos (ministerios, comunidades autónomas, diputaciones, ayuntamientos) y del sector privado.\n- Coordinación con otros equipos y CSIRTs.\n- Respuesta temprana ante incidentes.\n- Auditoría de redes y seguridad.\n- Consultoría para el diseño de infraestructuras seguras.\n\n\nEDRs (CrowdStrike, Cytomic) | Threat Intelligence (MISP) | SIEM & Log Management (IBM QRadar, Graylog, Splunk)"
+                "description": "- Análisis proactivo de amenazas de ciberseguridad.\n- Adaptación de múltiples servicios de ciberseguridad a diversos tipos de clientes públicos (ministerios, comunidades autónomas, diputaciones, ayuntamientos) y del sector privado.\n- Coordinación con otros equipos y CSIRTs.\n- Respuesta temprana ante incidentes.\n- Auditoría de redes y seguridad.\n- Consultoría para el diseño de infraestructuras seguras.\n\n\nEDRs (CrowdStrike, Cytomic) | Threat Intelligence (MISP) | SIEM & Log Management (Splunk, Graylog, IBM QRadar)"
               }
             ],
             "competences": [
