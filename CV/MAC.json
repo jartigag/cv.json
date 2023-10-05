@@ -555,6 +555,7 @@
     },
     "preferences": {
       "preferredRoles": [
+        "Data Analysis & BI",
         "Data Engineer",
         "Engineering Management",
         "Security Engineer"
