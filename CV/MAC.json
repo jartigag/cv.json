@@ -70,6 +70,10 @@
             ],
             "competences": [
               {
+                "name": "Bash",
+                "type": "technology"
+              },
+              {
                 "name": "Centos",
                 "type": "technology"
               },
