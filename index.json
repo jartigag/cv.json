@@ -107,23 +107,6 @@
       },
       {
         "organization": {
-          "name": "Scavenger Security",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/05/14bac39e-83d8-4b59-8d8f-b7a5ad666a88_337a0e80-4d97-4264-9.jpeg",
-            "alt": "337a0e80-4d97-4264-9cdc-afab59604ff1_1615753306395.jpeg"
-          },
-          "URL": "https://scavengersecurity.com/tags/jartigag/"
-        },
-        "roles": [
-          {
-            "name": "CTF Player",
-            "startDate": "2021-09-01",
-            "finishDate": "2022-05-01"
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Naudit HPCN",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/05/a3f1708b-1223-4b6e-a624-2ec0f1cfabe9_953e9b5d-9f9d-4d18-b.png",
@@ -241,20 +224,18 @@
       },
       {
         "details": {
-          "name": "Sistema de detección de dominios typosquatting",
-          "description": "Sistema de monitorización de dominios typosquatting, basado en recoger información con peticiones DNS, Whois y HTTP y almacenarla en un servidor de búsqueda Elasticsearch.",
-          "URL": "https://javier.artiga.es/paper-tfg-javier_artiga_garijo.pdf",
+          "name": "jartigag.blog",
+          "URL": "https://jartigag.blog/",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/16/44071255-899d-467d-8187-75ec5dd7faa5_screenshot_20220516_.png",
-            "alt": "Screenshot_20220516_114307.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/07/23/8da20d07-a137-4347-8c79-57d58c439177_favicon.png",
+            "alt": "favicon.png"
           }
         },
         "type": "sideProject",
         "roles": [
           {
             "name": "Developer",
-            "startDate": "2018-06-01",
-            "finishDate": "2018-09-01"
+            "startDate": "2019-01-01"
           }
         ]
       },
@@ -279,18 +260,20 @@
       },
       {
         "details": {
-          "name": "jartigag.blog",
-          "URL": "https://jartigag.blog/",
+          "name": "Sistema de detección de dominios typosquatting",
+          "description": "Sistema de monitorización de dominios typosquatting, basado en recoger información con peticiones DNS, Whois y HTTP y almacenarla en un servidor de búsqueda Elasticsearch.",
+          "URL": "https://javier.artiga.es/paper-tfg-javier_artiga_garijo.pdf",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/07/23/8da20d07-a137-4347-8c79-57d58c439177_favicon.png",
-            "alt": "favicon.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/16/44071255-899d-467d-8187-75ec5dd7faa5_screenshot_20220516_.png",
+            "alt": "Screenshot_20220516_114307.png"
           }
         },
         "type": "sideProject",
         "roles": [
           {
             "name": "Developer",
-            "startDate": "2019-01-01"
+            "startDate": "2018-06-01",
+            "finishDate": "2018-09-01"
           }
         ]
       }
