@@ -205,6 +205,25 @@
     "projects": [
       {
         "details": {
+          "name": "Scavenger Security",
+          "description": "CTF Player",
+          "URL": "https://scavengersecurity.com/tags/jartigag/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/10/7a6e572d-63f2-48e6-80e5-4eb0c200f990_337a0e80-4d97-4264-9.jpeg",
+            "alt": "337a0e80-4d97-4264-9cdc-afab59604ff1_1615753306395.jpeg"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2021-09-01",
+            "finishDate": "2022-05-01"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Caracterización de equipos informáticos mediante clustering en una red empresarial",
           "description": "Clasificación de equipos finales según su actividad de red y detección de comportamientos sospechosos, usando técnicas de clustering a partir de logs extraídos de firewalls.",
           "URL": "https://github.com/jartigag/tfm-clustering",
@@ -589,6 +608,9 @@
     "projects": [
       {
         "name": "Caracterización de equipos informáticos mediante clustering en una red empresarial"
+      },
+      {
+        "name": "Scavenger Security"
       },
       {
         "name": "Sistema de detección de dominios typosquatting"
