@@ -483,6 +483,20 @@
         ]
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Entrenamiento práctico de DFIR y análisis forense (20 h)",
+        "startDate": "2023-07-01",
+        "institution": {
+          "name": "Securízame",
+          "URL": "https://cursos.securizame.com/courses/entrenamiento-practico-dfir-y-analisis-forense/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/14/c80ee4da-d017-4ca1-9de9-351b2d520c0e_securizame_logo.jpeg",
+            "alt": "securizame_logo.jpeg"
+          }
+        }
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Master ",
