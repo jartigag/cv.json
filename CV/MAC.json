@@ -391,11 +391,11 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
-        "name": "Curso de desarrollo de software (basado en agile y XP)",
+        "name": "Curso de desarrollo de software basado en agile y XP (160 h)",
         "startDate": "2021-12-01",
         "institution": {
           "name": "Biko",
-          "description": "Formación presencial de 160 h, titulación oficial homologada.\nID de la credencial: EE3B0B28698B5652ID (https://administracionelectronica.navarra.es/validarCSV).\n\nPubliqué mis apuntes en [https://jartigag.github.io/bikoschool](https://jartigag.github.io/curso-biko-desarrollo-software-xp/)",
+          "description": "Formación presencial, titulación oficial homologada.\nID de la credencial: EE3B0B28698B5652ID (https://administracionelectronica.navarra.es/validarCSV).\n\nPubliqué mis apuntes en [https://jartigag.github.io/bikoschool](https://jartigag.github.io/curso-biko-desarrollo-software-xp/)",
           "URL": "https://www.biko2.com/bikoschool/curso-desarrollo-software/",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/16/a6f39e00-695c-4e2a-8e7b-90742bf87678_biko.png",
