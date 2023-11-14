@@ -523,6 +523,20 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Pack Análisis Forense y DFIR en Windows y Linux - Online++ (28 h)",
+        "startDate": "2023-06-01",
+        "institution": {
+          "name": "Securízame",
+          "URL": "https://cursos.securizame.com/courses/pack-analisis-forense-y-dfir-en-windows-y-linux-onlineplusplus/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/14/440dd9c9-1b96-4c27-8cab-e0ed0f6880e7_securizame_logo.jpeg",
+            "alt": "securizame_logo.jpeg"
+          }
+        }
       }
     ],
     "softSkills": [
