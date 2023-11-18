@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "ES",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -57,7 +57,7 @@
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/05/2879c402-3fe5-4218-824e-445ce9ab1409_0b50f82e-d7d4-434c-8.png",
             "alt": "0b50f82e-d7d4-434c-8518-f16b5d548b8c_csa.png"
           },
-          "URL": "https://www.linkedin.com/company/centro-de-servicios-avanzado"
+          "URL": "https://www.linkedin.com/company/centro-de-servicios-avanzados"
         },
         "roles": [
           {
@@ -65,7 +65,7 @@
             "startDate": "2021-09-01",
             "challenges": [
               {
-                "description": "- Análisis proactivo de amenazas de ciberseguridad.\n- Coordinación con otros equipos y CSIRTs.\n- Gestión de equipos de trabajo y seguimiento con clientes.\n- Adaptación de múltiples servicios de ciberseguridad a diversos tipos de clientes públicos (ministerios, comunidades autónomas, diputaciones, ayuntamientos) y del sector privado.\n- Automatizaciones, integraciones con APIs.\n- Respuesta temprana ante incidentes.\n- Auditoría de redes y seguridad.\n- Consultoría para el diseño de infraestructuras seguras.\n\n\nEDRs (CrowdStrike, Cytomic) | Threat Intelligence (MISP) | SIEM & Log Management (Splunk, Graylog, IBM QRadar)"
+                "description": "- Análisis proactivo de amenazas de ciberseguridad.\n- Coordinación con otros equipos y CSIRTs.\n- Gestión de equipos de trabajo y seguimiento con clientes.\n- Adaptación de múltiples servicios de ciberseguridad a diversos tipos de clientes públicos (ministerios, comunidades autónomas, diputaciones, ayuntamientos) y del sector privado.\n- Automatizaciones, integraciones con APIs.\n· Amplia experiencia con varias herramientas de CCN-CERT.\n- Respuesta temprana ante incidentes.\n- Auditoría de redes y seguridad.\n- Consultoría para el diseño de infraestructuras seguras.\n\n\nEDRs (CrowdStrike, Cytomic) | Threat Intelligence (MISP) | SIEM & Log Management (Splunk, Graylog, IBM QRadar)"
               }
             ],
             "competences": [
@@ -303,10 +303,12 @@
     "languages": [
       {
         "name": "EN",
+        "fullName": "Inglés",
         "level": "Full professional proficiency"
       },
       {
         "name": "ES",
+        "fullName": "Español",
         "level": "Native or bilingual proficiency"
       }
     ],
