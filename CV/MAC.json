@@ -615,23 +615,7 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
-        "name": "Elasticsearch",
-        "type": "technology"
-      },
-      {
-        "name": "Git",
-        "type": "technology"
-      },
-      {
-        "name": "Grafana",
-        "type": "technology"
-      },
-      {
         "name": "Linux",
-        "type": "technology"
-      },
-      {
-        "name": "Python",
         "type": "technology"
       }
     ],
