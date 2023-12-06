@@ -200,6 +200,23 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Banda Municipal de Música de Soria",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/06/bff75290-3ba1-4136-ad56-9e0f5cb74615_1693063643448.jpeg",
+            "alt": "1693063643448.jpeg"
+          },
+          "URL": "https://www.bandademusicadesoria.com/home.php"
+        },
+        "roles": [
+          {
+            "name": "Clarinetista",
+            "startDate": "2006-09-01",
+            "finishDate": "2012-09-01"
+          }
+        ]
       }
     ],
     "projects": [
