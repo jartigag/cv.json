@@ -52,6 +52,22 @@
     "jobs": [
       {
         "organization": {
+          "name": "esPublico Sistemas",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/13/244e8ae5-b6b6-4557-bab1-fb6938669fad_1646156041887.jpeg",
+            "alt": "1646156041887.jpeg"
+          },
+          "URL": "https://espublico.it"
+        },
+        "roles": [
+          {
+            "name": "Cybersecurity Analyst",
+            "startDate": "2024-02-01"
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Centro de Servicios Avanzados (CSA)",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/05/2879c402-3fe5-4218-824e-445ce9ab1409_0b50f82e-d7d4-434c-8.png",
