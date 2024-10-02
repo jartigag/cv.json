@@ -402,6 +402,21 @@
       },
       {
         "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Certified Ethical Hacker (CEH)",
+        "startDate": "2024-05-01",
+        "institution": {
+          "name": "EC-Council",
+          "URL": "https://aspen.eccouncil.org/VerifyBadge?type=certification&a=yT2KoLviHHKiDJLySpv/C7NlB1IWp2PA6su/z8D424Y=",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/10/02/6847a32c-1e6f-4baa-bf20-9790bb23fa8a_1631371916365.jpeg",
+            "alt": "1631371916365.jpeg"
+          }
+        },
+        "finishDate": "2027-05-01"
+      },
+      {
+        "studyType": "certification",
         "degreeAchieved": false,
         "name": "Curso de desarrollo de software basado en agile y XP (160 h)",
         "startDate": "2021-12-01",
