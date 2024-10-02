@@ -477,7 +477,7 @@
             "type": "technology"
           },
           {
-            "name": "JAVA",
+            "name": "Java",
             "type": "technology"
           },
           {
@@ -605,7 +605,7 @@
     "preferences": {
       "preferredRoles": [
         "Backend Developer",
-        "Data Analysis & BI",
+        "Data Analyst & BI",
         "Data Engineer",
         "Data Scientist",
         "Engineering Management",
