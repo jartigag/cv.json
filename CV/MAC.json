@@ -619,12 +619,10 @@
     },
     "preferences": {
       "preferredRoles": [
-        "Backend Developer",
         "Data Analyst & BI",
         "Data Engineer",
         "Data Scientist",
         "Engineering Management",
-        "Frontend Developer",
         "Full-stack Developer"
       ]
     },
