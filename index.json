@@ -78,11 +78,19 @@
                 "type": "technology"
               },
               {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
                 "name": "Request Tracker",
                 "type": "technology"
               },
               {
                 "name": "Trello",
+                "type": "technology"
+              },
+              {
+                "name": "Windows",
                 "type": "technology"
               }
             ]
