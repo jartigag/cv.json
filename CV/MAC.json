@@ -78,6 +78,10 @@
                 "type": "technology"
               },
               {
+                "name": "Request Tracker",
+                "type": "technology"
+              },
+              {
                 "name": "Trello",
                 "type": "technology"
               }
