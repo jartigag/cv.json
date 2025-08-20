@@ -70,6 +70,10 @@
             ],
             "competences": [
               {
+                "name": "Centos",
+                "type": "technology"
+              },
+              {
                 "name": "ELK",
                 "type": "technology"
               },
