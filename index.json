@@ -74,6 +74,10 @@
                 "type": "technology"
               },
               {
+                "name": "Falcon CrowdStrike",
+                "type": "technology"
+              },
+              {
                 "name": "Grafana",
                 "type": "technology"
               },
