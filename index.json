@@ -70,6 +70,10 @@
             ],
             "competences": [
               {
+                "name": "Bash",
+                "type": "technology"
+              },
+              {
                 "name": "Centos",
                 "type": "technology"
               },
@@ -79,6 +83,10 @@
               },
               {
                 "name": "Falcon CrowdStrike",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
                 "type": "technology"
               },
               {
