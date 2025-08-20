@@ -126,6 +126,10 @@
                 "type": "technology"
               },
               {
+                "name": "Falcon CrowdStrike",
+                "type": "technology"
+              },
+              {
                 "name": "Git",
                 "type": "technology"
               },
