@@ -86,7 +86,15 @@
                 "type": "technology"
               },
               {
+                "name": "GLPI",
+                "type": "technology"
+              },
+              {
                 "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "Google Sheets",
                 "type": "technology"
               },
               {
@@ -103,6 +111,10 @@
               },
               {
                 "name": "Trello",
+                "type": "technology"
+              },
+              {
+                "name": "Wiki.js",
                 "type": "technology"
               },
               {
