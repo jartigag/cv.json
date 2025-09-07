@@ -689,12 +689,7 @@
       "preferredRoles": [
         "Data Analyst & BI",
         "Data Engineer",
-        "Data Scientist",
-        "Engineering Management",
-        "Product Analyst",
-        "Product Manager",
-        "Product Owner",
-        "Project Manager & Delivery Manager"
+        "Engineering Management"
       ]
     },
     "status": "searchingActively",
