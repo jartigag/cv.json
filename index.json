@@ -8,8 +8,8 @@
     "profile": {
       "name": "Javier",
       "surnames": "Artiga Garijo",
-      "title": "Cibersecurity Projects and Services Coordinator",
-      "description": "Soy un ingeniero de telecomunicaciones (máster en big data) en su séptimo año de vida laboral, muy interesado en el análisis de datos, en apoyar a las personas que quieren evolucionar en equipo, la gestión de proyectos, la ciberseguridad, el desarrollo de software con buenas prácticas y en general en colaborar con gente motivada por trabajar en un objetivo común.\nHasta ahora he encontrado un poco de todo esto mientras recorría mi carrera en el mundo tecnológico, porque considero que ofrece infinidad de oportunidades de crecer en muchos sentidos. Al final es donde más bagaje tengo, pero no creo que este sea el único camino para realizarse profesionalmente.\n\nDesde febrero de 2024 coordino una oficina técnica de la que formo parte, desde la cual ideamos, planificamos, ejecutamos y mantenemos unos 10-15 proyectos al año enfocados en mejorar las capacidades de protección de nuestra organización. Además doy seguimiento a los servicios de un departamento de seguridad compuesto por 12 perfiles técnicos con distintos grados de experiencia y formación profesional.\n\nEntre septiembre de 2021 y enero de 2024 estuve en más de una decena de proyectos relacionados con la ciberseguridad para clientes del sector público español, principalmente. Mi tarea fundamental era el threat hunting, empleando múltiples soluciones del mercado (como EDRs, SIEMs, etc.) integradas con mis propias herramientas. Contribuí de manera decisiva en la iniciativa RNS del CCN-CERT. También trabajé en varios CSIRTs y he apoyado en respuesta a incidentes, consultoría de infraestructuras seguras, auditoría de redes y desarrollo de productos internos.\n\nAntes trabajé en una spin-off de monitorización de redes desde enero de 2019 hasta septiembre de 2021, dentro de un proyecto internacional para el sector bancario cuyo enfoque principal fue construir un SIEM por completo, con el stack ELK y herramientas que desarrollamos en equipo. Lo hice junto a un grupo fantástico del que aprendí un montón y al que pude aportar en igual medida.\n\nCreo que es más fácil conocerme leyendo un poco los artículos que escribo en: [jartigag.blog](https://jartigag.blog).",
+      "title": "Coordinador de servicios y proyectos de ciberseguridad",
+      "description": "Me describo mejor en https://javier.artiga.es/  Si sólo buscas mi CV, https://javier.artiga.es/cv.pdf",
       "avatar": {
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/07/48cc7bc0-6e64-4f4c-8883-a9056ff2ce8b_carnet2sq.jpg",
         "alt": "carnet2sq.jpg"
@@ -52,74 +52,15 @@
     "jobs": [
       {
         "organization": {
-          "name": "esPublico Sistemas",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/13/244e8ae5-b6b6-4557-bab1-fb6938669fad_1646156041887.jpeg",
-            "alt": "1646156041887.jpeg"
-          },
-          "URL": "https://www.linkedin.com/company/espublico/"
+          "name": "Espublico Sistemas"
         },
         "roles": [
           {
-            "name": "Cibersecurity Projects and Services Coordinator",
+            "name": "Coordinador de servicios y proyectos de ciberseguridad",
             "startDate": "2024-02-01",
             "challenges": [
               {
-                "description": "- Coordinar y supervisar todas las fases de proyectos de la Oficina Técnica de Seguridad.\n- Llevar el seguimiento de los servicios del SOC e impulsar las tareas con las que evolucionarlos.\n- Supervisar y contribuir en desarrollos de software."
-              }
-            ],
-            "competences": [
-              {
-                "name": "Bash",
-                "type": "technology"
-              },
-              {
-                "name": "Centos",
-                "type": "technology"
-              },
-              {
-                "name": "ELK",
-                "type": "technology"
-              },
-              {
-                "name": "Falcon CrowdStrike",
-                "type": "technology"
-              },
-              {
-                "name": "GLPI",
-                "type": "technology"
-              },
-              {
-                "name": "Git",
-                "type": "technology"
-              },
-              {
-                "name": "Google Sheets",
-                "type": "technology"
-              },
-              {
-                "name": "Grafana",
-                "type": "technology"
-              },
-              {
-                "name": "Python",
-                "type": "technology"
-              },
-              {
-                "name": "Request Tracker",
-                "type": "technology"
-              },
-              {
-                "name": "Trello",
-                "type": "technology"
-              },
-              {
-                "name": "Wiki.js",
-                "type": "technology"
-              },
-              {
-                "name": "Windows",
-                "type": "technology"
+                "description": "· Coordinar y supervisar todas las fases de los proyectos de la Oficina Técnica de Seguridad. · Llevar el seguimiento de los servicios del SOC e impulsar las tareas con las que evolucionarlos. · Supervisar y contribuir en desarrollos de software."
               }
             ]
           }
@@ -127,59 +68,16 @@
       },
       {
         "organization": {
-          "name": "Centro de Servicios Avanzados (CSA)",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/05/2879c402-3fe5-4218-824e-445ce9ab1409_0b50f82e-d7d4-434c-8.png",
-            "alt": "0b50f82e-d7d4-434c-8518-f16b5d548b8c_csa.png"
-          },
-          "URL": "https://www.linkedin.com/company/centro-de-servicios-avanzados"
+          "name": "Centro de Servicios Avanzados (CSA)"
         },
         "roles": [
           {
-            "name": "Cybersecurity Analyst",
+            "name": "Analista de ciberseguridad",
             "startDate": "2021-09-01",
             "finishDate": "2024-01-01",
             "challenges": [
               {
-                "description": "- Análisis proactivo de amenazas de ciberseguridad (Threat Hunting).\n- Coordinación con otros equipos y CSIRTs, incluyendo la [iniciativa RNS de CCN-CERT](https://rns.ccn-cert.cni.es/).\n- Gestión de equipos de trabajo y seguimiento con clientes.\n- Adaptación de múltiples servicios de ciberseguridad a diversos tipos de clientes públicos (ministerios, comunidades autónomas, diputaciones, ayuntamientos) y del sector privado.\n- Automatizaciones, integraciones con APIs.\n- Amplia experiencia con varias [herramientas de CCN-CERT](https://www.ccn-cert.cni.es/es/soluciones-seguridad.html).\n- Respuesta temprana ante incidentes.\n- Auditoría de redes y seguridad.\n- Consultoría para el diseño de infraestructuras seguras.\n\n\nEDRs (CrowdStrike, Cytomic) | Threat Intelligence (MISP) | SIEM & Log Management (Splunk, Graylog, IBM QRadar)"
-              }
-            ],
-            "competences": [
-              {
-                "name": "Bash",
-                "type": "technology"
-              },
-              {
-                "name": "Centos",
-                "type": "technology"
-              },
-              {
-                "name": "Falcon CrowdStrike",
-                "type": "technology"
-              },
-              {
-                "name": "Git",
-                "type": "technology"
-              },
-              {
-                "name": "Linux",
-                "type": "technology"
-              },
-              {
-                "name": "Pytest",
-                "type": "technology"
-              },
-              {
-                "name": "Python",
-                "type": "technology"
-              },
-              {
-                "name": "RedHat",
-                "type": "technology"
-              },
-              {
-                "name": "Windows",
-                "type": "technology"
+                "description": "· Análisis proactivo de amenazas de ciberseguridad (Threat Hunting). · Coordinación con otros equipos y CSIRTs, incluyendo la iniciativa RNS de CCN-CERT. · Gestión de equipos de trabajo y seguimiento con clientes. · Adaptación de múltiples servicios de ciberseguridad a diversos tipos de clientes públicos (ministerios, comunidades autónomas, diputaciones, ayuntamientos) y del sector privado. · Automatizaciones, integraciones con APIs. · Amplia experiencia con varias herramientas de CCN-CERT. · Respuesta temprana ante incidentes. · Auditoría de redes y seguridad. · Consultoría para el diseño de infraestructuras seguras.  EDRs (CrowdStrike, Cytomic) | Threat Intelligence (MISP) | SIEM & Log Management (Splunk, Graylog, IBM QRadar)"
               }
             ]
           }
@@ -187,59 +85,16 @@
       },
       {
         "organization": {
-          "name": "Naudit HPCN",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/05/a3f1708b-1223-4b6e-a624-2ec0f1cfabe9_953e9b5d-9f9d-4d18-b.png",
-            "alt": "953e9b5d-9f9d-4d18-b87b-33c052799b96_naudit.png"
-          },
-          "URL": "https://www.linkedin.com/company/naudit-hpcn"
+          "name": "Naudit HPCN"
         },
         "roles": [
           {
-            "name": "Observability Analyst",
+            "name": "Analista de observabilidad",
             "startDate": "2019-01-01",
             "finishDate": "2021-09-01",
             "challenges": [
               {
-                "description": "- Implementación propia de diversas soluciones para clientes finales del sector bancario, enfocadas principalmente en ciberseguridad. Por ejemplo:\n  - SIEM con logs de distintos firewalls, servidores Windows y muchas otras fuentes.\n  - API de alertas por email sobre queries a Elasticsearch o PostgreSQL.\n  - Informes de monitorización periódicos.\n- Seguimiento continuo con clientes internacionales, ayudando en la definición de sus necesidades y personalización de sus despliegues.\n- Diseño de dashboards para monitorizar datos de red, sistemas y negocio.\n- Análisis de tráfico en grandes redes (investigación de incidencias, optimización).\n- Desarrollo de procesados en tiempo real sobre altos volúmenes de logs.\n- Administración de sistemas Linux. Scripting, automatización, mantenimiento.\n\nDashboards (Grafana, Kibana) | Desarrollo (Python) | Bases de datos (Elasticsearch, PostgreSQL) | Sysadmin (Linux)"
-              }
-            ],
-            "competences": [
-              {
-                "name": "AWK",
-                "type": "technology"
-              },
-              {
-                "name": "Elasticsearch",
-                "type": "technology"
-              },
-              {
-                "name": "Git",
-                "type": "technology"
-              },
-              {
-                "name": "Grafana",
-                "type": "technology"
-              },
-              {
-                "name": "Kibana",
-                "type": "technology"
-              },
-              {
-                "name": "Linux",
-                "type": "technology"
-              },
-              {
-                "name": "Logstash",
-                "type": "technology"
-              },
-              {
-                "name": "PostgreSQL",
-                "type": "technology"
-              },
-              {
-                "name": "Python",
-                "type": "technology"
+                "description": "· Implementación propia de diversas soluciones para clientes finales del sector bancario, enfocadas principalmente en ciberseguridad. Por ejemplo: ⠀ · SIEM con logs de distintos firewalls, servidores Windows y muchas otras fuentes. ⠀ · API de alertas por email sobre queries a Elasticsearch o PostgreSQL. ⠀ · Informes de monitorización periódicos. · Seguimiento continuo con clientes internacionales, ayudando en la definición de sus necesidades y personalización de sus despliegues. · Diseño de dashboards para monitorizar datos de red, sistemas y negocio. · Análisis de tráfico en grandes redes (investigación de incidencias, optimización). · Desarrollo de procesados en tiempo real sobre altos volúmenes de logs. · Administración de sistemas Linux. Scripting, automatización, mantenimiento.  Dashboards (Grafana, Kibana) | Desarrollo (Python) | Bases de datos (Elasticsearch, PostgreSQL) | Sysadmin (Linux)"
               }
             ]
           }
@@ -247,52 +102,28 @@
       },
       {
         "organization": {
-          "name": "ElevenPaths",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/05/737b8bb8-0288-4ceb-8f00-0244c41a510f_a90ebbda-04ac-45d3-9.png",
-            "alt": "a90ebbda-04ac-45d3-9271-949130684458_11p.png"
-          },
-          "URL": "https://www.linkedin.com/company/telefonicatech"
+          "name": "ElevenPaths"
         },
         "roles": [
           {
-            "name": "Contributor",
+            "name": "Colaborador",
             "startDate": "2018-06-01",
             "finishDate": "2018-09-01",
             "challenges": [
               {
                 "description": "Desarrollo de un proyecto (dentro del \"Reto Ciberseguridad y Big Data\") para detectar dominios typosquatting, que luego presenté como mi TFG."
               }
-            ],
-            "competences": [
-              {
-                "name": "Elasticsearch",
-                "type": "technology"
-              },
-              {
-                "name": "Linux",
-                "type": "technology"
-              },
-              {
-                "name": "Python",
-                "type": "technology"
-              }
             ]
           }
         ]
       },
       {
         "organization": {
-          "name": "Banda Municipal de Música de Soria",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/06/bff75290-3ba1-4136-ad56-9e0f5cb74615_1693063643448.jpeg",
-            "alt": "1693063643448.jpeg"
-          },
-          "URL": "https://www.bandademusicadesoria.com/home.php"
+          "name": "Fundación Banda Municipal de Música de Soria"
         },
         "roles": [
           {
-            "name": "Clarinetist",
+            "name": "Clarinetista",
             "startDate": "2006-09-01",
             "finishDate": "2012-09-01"
           }
@@ -417,235 +248,127 @@
     "hardSkills": [
       {
         "skill": {
+          "name": "Bash",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "ELK",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Elasticsearch",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Flutter",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "GLPI",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "GitLab",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Grafana",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Java",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Splunk",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Trello",
           "type": "technology"
         }
       }
     ],
     "studies": [
       {
-        "studyType": "certification",
+        "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": " CCFH (Hunter)",
-        "startDate": "2022-08-01",
+        "name": "Grado en Ingeniería",
+        "startDate": "2015-01-01",
         "institution": {
-          "name": "CrowdStrike",
-          "description": "Número de registro: 426760390\nNúmero de validación: 782132936\nhttps://www9.pearsonvue.com/testtaker/authenticate/AuthenticateScoreReport.htm",
-          "URL": "https://www.crowdstrike.com/crowdstrike-university/crowdstrike-falcon-certification-program/",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/20/e4bbd11a-1231-4d89-bafe-dafc95e3177a_1633985770672.jpeg",
-            "alt": "1633985770672.jpeg"
-          }
+          "name": "Universidad Pública de Navarra"
         },
-        "finishDate": "2025-08-01"
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "B2 First",
-        "startDate": "2011-05-01",
-        "institution": {
-          "name": "Cambridge Assessment English",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/16/bedfb20e-fe56-4bb3-a4e2-fd84ce56f0f2_1650876512808.jpeg",
-            "alt": "1650876512808.jpeg"
-          }
-        }
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "CCFR (Responder)",
-        "startDate": "2022-08-01",
-        "institution": {
-          "name": "CrowdStrike",
-          "description": "Número de registro: 426833974\nNúmero de validación: 1892019407\nhttps://www9.pearsonvue.com/testtaker/authenticate/AuthenticateScoreReport.htm",
-          "URL": "https://www.crowdstrike.com/crowdstrike-university/crowdstrike-falcon-certification-program/",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/20/515f381f-b2f6-423d-a8f4-8f606821e549_1633985770672.jpeg",
-            "alt": "1633985770672.jpeg"
-          }
-        },
-        "finishDate": "2025-08-01"
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "Certified Ethical Hacker (CEH)",
-        "startDate": "2024-05-01",
-        "institution": {
-          "name": "EC-Council",
-          "URL": "https://aspen.eccouncil.org/VerifyBadge?type=certification&a=yT2KoLviHHKiDJLySpv/C7NlB1IWp2PA6su/z8D424Y=",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/10/02/6847a32c-1e6f-4baa-bf20-9790bb23fa8a_1631371916365.jpeg",
-            "alt": "1631371916365.jpeg"
-          }
-        },
-        "finishDate": "2027-05-01"
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "Curso de desarrollo de software basado en agile y XP (160 h)",
-        "startDate": "2021-12-01",
-        "institution": {
-          "name": "Biko",
-          "description": "Formación presencial, titulación oficial homologada.\nID de la credencial: EE3B0B28698B5652ID (https://administracionelectronica.navarra.es/validarCSV).\n\nPubliqué mis apuntes en [https://javier.artiga.es/bikoschool/book/](https://javier.artiga.es/bikoschool/book/)",
-          "URL": "https://www.biko2.com/bikoschool/curso-desarrollo-software/",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/16/a6f39e00-695c-4e2a-8e7b-90742bf87678_biko.png",
-            "alt": "biko.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "CSS",
-            "type": "technology"
-          },
-          {
-            "name": "Github Actions",
-            "type": "technology"
-          },
-          {
-            "name": "HTML",
-            "type": "technology"
-          },
-          {
-            "name": "JavaScript",
-            "type": "technology"
-          },
-          {
-            "name": "React",
-            "type": "technology"
-          },
-          {
-            "name": "TypeScript",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "Cytomic Technical Certification",
-        "startDate": "2022-11-01",
-        "institution": {
-          "name": "WatchGuard Technologies",
-          "URL": "https://www.watchguard.com/wgrd-training/certification",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/20/3d33c435-4e92-42a1-a8fb-bb0a3762da04_1562602357356.jpeg",
-            "alt": "1562602357356.jpeg"
-          }
-        },
-        "finishDate": "2024-11-01"
+        "finishDate": "2019-01-01"
       },
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "Engineering ",
-        "startDate": "2015-09-01",
+        "name": "Máster",
+        "startDate": "2019-01-01",
         "institution": {
-          "name": "Universidad Pública de Navarra",
-          "description": "Ingeniería de Telecomunicaciones, mención en telemática",
-          "URL": "https://www.linkedin.com/school/universidad-publica-de-navarra/",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/16/62dfabba-c254-44fd-9901-b810c403930b_upna.png",
-            "alt": "upna.png"
-          }
+          "name": "UNIR - La Universidad en Internet"
         },
-        "finishDate": "2019-06-01",
-        "linkedCompetences": [
-          {
-            "name": "Cisco",
-            "type": "technology"
-          },
-          {
-            "name": "Java",
-            "type": "technology"
-          },
-          {
-            "name": "JavaScript",
-            "type": "technology"
-          },
-          {
-            "name": "Matlab",
-            "type": "technology"
-          },
-          {
-            "name": "PHP",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "Entrenamiento práctico de DFIR y análisis forense (20 h)",
-        "startDate": "2023-07-01",
-        "institution": {
-          "name": "Securízame",
-          "URL": "https://cursos.securizame.com/courses/entrenamiento-practico-dfir-y-analisis-forense/",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/14/c80ee4da-d017-4ca1-9de9-351b2d520c0e_securizame_logo.jpeg",
-            "alt": "securizame_logo.jpeg"
-          }
-        }
-      },
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "Master ",
-        "startDate": "2019-09-01",
-        "institution": {
-          "name": "UNIR - La Universidad en Internet",
-          "description": "Máster Universitario en Análisis y Visualización de Datos Masivos\n\n- Inteligencia Artificial, Machine Learning\n- Estadística\n- MongoDB\n- Hadoop, Spark\n- R, Python\n- BI, Tableau, D3js, principios de visualización de datos",
-          "URL": "https://www.linkedin.com/school/unir-universidad-internet/",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/16/53a442f4-d662-4558-b54c-5117f3db4286_unir.png",
-            "alt": "unir.png"
-          }
-        },
-        "finishDate": "2020-06-01",
-        "linkedCompetences": [
-          {
-            "name": "D3",
-            "type": "technology"
-          },
-          {
-            "name": "Hadoop",
-            "type": "technology"
-          },
-          {
-            "name": "MongoDB",
-            "type": "technology"
-          },
-          {
-            "name": "R",
-            "type": "technology"
-          },
-          {
-            "name": "Spark",
-            "type": "technology"
-          },
-          {
-            "name": "Tableau",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "Pack Análisis Forense y DFIR en Windows y Linux - Online++ (28 h)",
-        "startDate": "2023-06-01",
-        "institution": {
-          "name": "Securízame",
-          "URL": "https://cursos.securizame.com/courses/pack-analisis-forense-y-dfir-en-windows-y-linux-onlineplusplus/",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/14/440dd9c9-1b96-4c27-8cab-e0ed0f6880e7_securizame_logo.jpeg",
-            "alt": "securizame_logo.jpeg"
-          }
-        }
+        "finishDate": "2020-01-01"
       }
     ],
     "softSkills": [
