@@ -54,6 +54,22 @@
         "organization": {
           "name": "esPublico Sistemas",
           "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/11/08/4b9e3e2c-e2c7-4f0e-96a9-49e1b553976e_244e8ae5-b6b6-4557-b.jpeg",
+            "alt": "244e8ae5-b6b6-4557-bab1-fb6938669fad_1646156041887.jpeg"
+          },
+          "URL": "https://www.linkedin.com/company/espublico/"
+        },
+        "roles": [
+          {
+            "name": "Internal Auditor",
+            "startDate": "2025-10-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "esPublico Sistemas",
+          "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/13/244e8ae5-b6b6-4557-bab1-fb6938669fad_1646156041887.jpeg",
             "alt": "1646156041887.jpeg"
           },
@@ -697,7 +713,13 @@
         "Project Manager & Delivery Manager"
       ]
     },
-    "status": "searchingActively"
+    "status": "searchingActively",
+    "requirements": {
+      "contractTypes": [
+        "permanent",
+        "freelance"
+      ]
+    }
   },
   "manfredSpecificData": {
     "mainStackTechs": [
