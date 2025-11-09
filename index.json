@@ -8,8 +8,8 @@
     "profile": {
       "name": "Javier",
       "surnames": "Artiga Garijo",
-      "title": "Cybersecurity Analyst",
-      "description": "Soy un ingeniero de telecomunicaciones (máster en big data) en su sexto año de vida laboral, muy interesado en la ciberseguridad, el análisis de datos, el desarrollo de software con buenas prácticas, en colaborar con gente motivada por trabajar en un objetivo común y en general en seguir progresando en mi carrera profesional en el mundo tecnológico, que considero que ofrece infinidad de oportunidades de crecer en muchos sentidos.\n\nEntre septiembre de 2021 y enero de 2024 estuve en más de una decena de proyectos relacionados con la ciberseguridad para clientes del sector público español, principalmente. Mi tarea fundamental era el threat hunting, empleando múltiples soluciones del mercado (como EDRs, SIEMs, etc.) integradas con mis propias herramientas. Contribuí de manera decisiva en la iniciativa RNS del CCN-CERT. También trabajé en varios CSIRTs y he apoyado en respuesta a incidentes, consultoría de infraestructuras seguras, auditoría de redes y desarrollo de productos internos.\n\nAntes trabajé en una spin-off de monitorización de redes desde enero de 2019 hasta septiembre de 2021, dentro de un proyecto internacional cuyo enfoque principal fue construir un SIEM por completo, con el stack ELK y herramientas que desarrollamos en equipo. Lo hice junto a un grupo fantástico del que aprendí un montón y al que pude aportar en igual medida.\n\nCreo que es más fácil conocerme leyendo un poco los artículos que escribo en: [jartigag.blog](https://jartigag.blog).",
+      "title": "Cibersecurity Projects and Services Coordinator",
+      "description": "Soy un ingeniero de telecomunicaciones (máster en big data) en su séptimo año de vida laboral, muy interesado en el análisis de datos, en apoyar a las personas que quieren evolucionar en equipo, la gestión de proyectos, la ciberseguridad, el desarrollo de software con buenas prácticas y en general en colaborar con gente motivada por trabajar en un objetivo común.\nHasta ahora he encontrado un poco de todo esto mientras recorría mi carrera en el mundo tecnológico, porque considero que ofrece infinidad de oportunidades de crecer en muchos sentidos. Al final es donde más bagaje tengo, pero no creo que este sea el único camino para realizarse profesionalmente.\n\nDesde febrero de 2024 coordino una oficina técnica de la que formo parte, desde la cual ideamos, planificamos, ejecutamos y mantenemos unos 10-15 proyectos al año enfocados en mejorar las capacidades de protección de nuestra organización. Además doy seguimiento a los servicios de un departamento de seguridad compuesto por 12 perfiles técnicos con distintos grados de experiencia y formación profesional.\n\nEntre septiembre de 2021 y enero de 2024 estuve en más de una decena de proyectos relacionados con la ciberseguridad para clientes del sector público español, principalmente. Mi tarea fundamental era el threat hunting, empleando múltiples soluciones del mercado (como EDRs, SIEMs, etc.) integradas con mis propias herramientas. Contribuí de manera decisiva en la iniciativa RNS del CCN-CERT. También trabajé en varios CSIRTs y he apoyado en respuesta a incidentes, consultoría de infraestructuras seguras, auditoría de redes y desarrollo de productos internos.\n\nAntes trabajé en una spin-off de monitorización de redes desde enero de 2019 hasta septiembre de 2021, dentro de un proyecto internacional para el sector bancario cuyo enfoque principal fue construir un SIEM por completo, con el stack ELK y herramientas que desarrollamos en equipo. Lo hice junto a un grupo fantástico del que aprendí un montón y al que pude aportar en igual medida.\n\nCreo que es más fácil conocerme leyendo un poco los artículos que escribo en: [jartigag.blog](https://jartigag.blog).",
       "avatar": {
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/07/48cc7bc0-6e64-4f4c-8883-a9056ff2ce8b_carnet2sq.jpg",
         "alt": "carnet2sq.jpg"
@@ -61,8 +61,71 @@
         },
         "roles": [
           {
+            "name": "Internal Auditor",
+            "startDate": "2025-10-01"
+          },
+          {
             "name": "Cibersecurity Projects and Services Coordinator",
-            "startDate": "2024-02-01"
+            "startDate": "2024-02-01",
+            "challenges": [
+              {
+                "description": "- Coordinar y supervisar todas las fases de proyectos de la Oficina Técnica de Seguridad.\n- Llevar el seguimiento de los servicios del SOC e impulsar las tareas con las que evolucionarlos.\n- Supervisar y contribuir en desarrollos de software."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Bash",
+                "type": "technology"
+              },
+              {
+                "name": "Centos",
+                "type": "technology"
+              },
+              {
+                "name": "ELK",
+                "type": "technology"
+              },
+              {
+                "name": "Falcon CrowdStrike",
+                "type": "technology"
+              },
+              {
+                "name": "GLPI",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "Google Sheets",
+                "type": "technology"
+              },
+              {
+                "name": "Grafana",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "Request Tracker",
+                "type": "technology"
+              },
+              {
+                "name": "Trello",
+                "type": "technology"
+              },
+              {
+                "name": "Wiki.js",
+                "type": "technology"
+              },
+              {
+                "name": "Windows",
+                "type": "technology"
+              }
+            ]
           }
         ]
       },
@@ -92,6 +155,10 @@
               },
               {
                 "name": "Centos",
+                "type": "technology"
+              },
+              {
+                "name": "Falcon CrowdStrike",
                 "type": "technology"
               },
               {
@@ -138,7 +205,7 @@
             "finishDate": "2021-09-01",
             "challenges": [
               {
-                "description": "- Implementación propia de diversas soluciones para clientes finales, enfocadas principalmente en ciberseguridad. Por ejemplo:\n  - SIEM con logs de distintos firewalls, servidores Windows y muchas otras fuentes.\n  - API de alertas por email sobre queries a Elasticsearch o PostgreSQL.\n  - Informes de monitorización periódicos.\n- Seguimiento continuo con clientes internacionales, ayudando en la definición de sus necesidades y personalización de sus despliegues.\n- Diseño de dashboards para monitorizar datos de red, sistemas y negocio.\n- Análisis de tráfico en grandes redes (investigación de incidencias, optimización).\n- Desarrollo de procesados en tiempo real sobre altos volúmenes de logs.\n- Administración de sistemas Linux. Scripting, automatización, mantenimiento.\n\nDashboards (Grafana, Kibana) | Desarrollo (Python) | Bases de datos (Elasticsearch, PostgreSQL) | Sysadmin (Linux)"
+                "description": "- Implementación propia de diversas soluciones para clientes finales del sector bancario, enfocadas principalmente en ciberseguridad. Por ejemplo:\n  - SIEM con logs de distintos firewalls, servidores Windows y muchas otras fuentes.\n  - API de alertas por email sobre queries a Elasticsearch o PostgreSQL.\n  - Informes de monitorización periódicos.\n- Seguimiento continuo con clientes internacionales, ayudando en la definición de sus necesidades y personalización de sus despliegues.\n- Diseño de dashboards para monitorizar datos de red, sistemas y negocio.\n- Análisis de tráfico en grandes redes (investigación de incidencias, optimización).\n- Desarrollo de procesados en tiempo real sobre altos volúmenes de logs.\n- Administración de sistemas Linux. Scripting, automatización, mantenimiento.\n\nDashboards (Grafana, Kibana) | Desarrollo (Python) | Bases de datos (Elasticsearch, PostgreSQL) | Sysadmin (Linux)"
               }
             ],
             "competences": [
@@ -336,6 +403,11 @@
   "knowledge": {
     "languages": [
       {
+        "name": "DE",
+        "fullName": "Alemán",
+        "level": "Limited working proficiency"
+      },
+      {
         "name": "EN",
         "fullName": "Inglés",
         "level": "Full professional proficiency"
@@ -422,7 +494,7 @@
         "startDate": "2021-12-01",
         "institution": {
           "name": "Biko",
-          "description": "Formación presencial, titulación oficial homologada.\nID de la credencial: EE3B0B28698B5652ID (https://administracionelectronica.navarra.es/validarCSV).\n\nPubliqué mis apuntes en [https://jartigag.github.io/bikoschool](https://jartigag.github.io/curso-biko-desarrollo-software-xp/)",
+          "description": "Formación presencial, titulación oficial homologada.\nID de la credencial: EE3B0B28698B5652ID (https://administracionelectronica.navarra.es/validarCSV).\n\nPubliqué mis apuntes en [https://javier.artiga.es/bikoschool/book/](https://javier.artiga.es/bikoschool/book/)",
           "URL": "https://www.biko2.com/bikoschool/curso-desarrollo-software/",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/16/a6f39e00-695c-4e2a-8e7b-90742bf87678_biko.png",
@@ -619,17 +691,23 @@
     },
     "preferences": {
       "preferredRoles": [
-        "Backend Developer",
         "Data Analyst & BI",
         "Data Engineer",
         "Data Scientist",
         "Engineering Management",
-        "Frontend Developer",
-        "Full-stack Developer",
-        "Security Engineer"
+        "Product Analyst",
+        "Product Manager",
+        "Product Owner",
+        "Project Manager & Delivery Manager"
       ]
     },
-    "status": "searchingActively"
+    "status": "searchingActively",
+    "requirements": {
+      "contractTypes": [
+        "permanent",
+        "freelance"
+      ]
+    }
   },
   "manfredSpecificData": {
     "mainStackTechs": [
@@ -638,7 +716,7 @@
         "type": "technology"
       }
     ],
-    "desiredJobDescription": "Sería en un proyecto que sienta que supone una contribución interesante, con un equipo cohesionado y motivado por ese objetivo, dentro una empresa con valores, transparente y participativa hacia fuera y hacia dentro.",
+    "desiredJobDescription": "Sería en un proyecto que sienta que hago una contribución interesante y causa impacto, con un equipo cohesionado y motivado por ese objetivo, dentro una empresa con valores, transparente y participativa hacia fuera y hacia dentro.",
     "projects": [
       {
         "name": "Caracterización de equipos informáticos mediante clustering en una red empresarial"
