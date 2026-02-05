@@ -62,14 +62,10 @@
         "roles": [
           {
             "name": "Internal Auditor",
-            "startDate": "2025-10-01"
-          },
-          {
-            "name": "Cibersecurity Projects and Services Coordinator",
             "startDate": "2024-02-01",
             "challenges": [
               {
-                "description": "- Coordinar y supervisar todas las fases de proyectos de la Oficina Técnica de Seguridad.\n- Llevar el seguimiento de los servicios del SOC e impulsar las tareas con las que evolucionarlos.\n- Supervisar y contribuir en desarrollos de software."
+                "description": "Previously (feb.2024 - oct.2025):\nCibersecurity Projects and Services Coordinator\n  - Coordinate and supervise all phases of the Security Technical Office's projects.\n  - Follow up on the SOC services and drive initiatives to enhance them.\n  - Supervise and contribute to software development."
               }
             ],
             "competences": [
