@@ -342,7 +342,7 @@
         "details": {
           "name": "jartigag.blog",
           "description": "Blog personal y técnico: https://jartigag.blog",
-          "URL": "https://jartigag.blog/",
+          "URL": "https://jartigag.github.io/blog/",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/07/23/8da20d07-a137-4347-8c79-57d58c439177_favicon.png",
             "alt": "favicon.png"
